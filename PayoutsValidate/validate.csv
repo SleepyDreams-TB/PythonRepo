@@ -1,0 +1,21 @@
+id,customer_name,bank,branch,account,account_type,amount,type,organisation,organisation_id,owning_organisation,payout_status,created,batch_date,reference,external_reference,payout_type
+6092949,"Ilse Oosthuyse",fnb,250655,62280028468,savings,1000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-26 07:05:18",,73dc20fea3058ed76539b494c1bdb2d7,,N/A
+6092948,"Ntombizanele Millicent Dipheko",capitec,470010,1135776685,savings,300.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-26 07:05:18",,53f1dd9a6f4cd4673e4e211524cf3362,,N/A
+6092947,"Mr P.B Cibane",nedbank,198765,1306549493,current,1700.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-26 07:05:18",,adca5522dea897c2cc2ecdf0f165ab13,,N/A
+6092946,"RM WHISTON",standard,051001,421879491,current,7000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-26 07:05:18",,cbb88ed7a9f3331ec7587b3ddcb90b75,,N/A
+6092945,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-26 07:05:17",,61d7499e8ab87fd77d23a205cc7a29f5,,N/A
+6092944,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-26 07:05:17",,4d30183cfde5313f539f8014febfd6b2,,N/A
+6092943,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-26 07:05:17",,4076d734fac8f48d4d9e8bb196b09f61,,N/A
+6092942,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-26 07:05:17",,ea1821c093d033b008eb8f559f20cfe4,,N/A
+6092358,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-25 06:00:07",,5dda29b173b526b7748ffb49411b6a1d,,N/A
+6092359,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-25 06:00:07",,34b9bfda8c58f9c8a1595aca1954411d,,N/A
+6092357,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-25 06:00:07",,dd2c2cfecbc015700c1cdbf4e6773246,,N/A
+6092356,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-25 06:00:07",,12951bed12456a64eb7957281d0748f9,,N/A
+6091885,"Melanie Bold",absa,632005,627907818,savings,40000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-24 07:11:02",,baa097e4751abb2e22ccdbfa9839a2e8,,N/A
+6091892,"M prinsloo",capitec,470010,1352332203,savings,898.37,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-24 07:11:02",,7ad83541fadbb8cdd404046fc5d91d44,,N/A
+6091891,"M Pretorius",investec,580105,10011805712,current,10221.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-24 07:11:02",,c28899ed87cd32be62fc8f127c2e6b34,,N/A
+6091890,"Vanessa Karen",absa,632005,4070842121,current,800.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-24 07:11:02",,96a82ee772ebcd0b3f398d4631ef06d9,,N/A
+6091889,"Gheraldo Swartz",capitec,470010,2102283549,savings,150.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-24 07:11:02",,dd3b6cd643a5271406f4893337ad1bad,,N/A
+6091888,"PS de Beer",nedbank,198765,1313449113,current,30000.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-24 07:11:02",,bb034f3fb2a455edea8fbfed0190234c,,N/A
+6091887,"Belinda Bergh",fnb,250655,62853570317,current,1548.37,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-24 07:11:02",,4efa97c735dab505730e1485dfa4fc92,,N/A
+6091886,"Melanie Bold",absa,632005,627907818,savings,30244.00,Payout,"Orange Entertainment",20078,"Media Supplies Africa (Pty) Ltd.",Processing,"2025-05-24 07:11:02",,16f34815fed4afe88024e08236943b1d,,N/A

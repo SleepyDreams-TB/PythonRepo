@@ -1,0 +1,12 @@
+id,customer_name,bank,branch,account,account_type,amount,type,organisation,organisation_id,owning_organisation,payout_status,created,batch_date,reference,external_reference,payout_type
+6162590,"QM Elias",Capitec,470010,2148625345,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:05",,686b5479b1555,,N/A
+6162591,"Janine button",Standard,051001,255165064,savings,2300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:05",,686b549e2c086,,N/A
+6162592,"Sibongile Molale",Capitec,470010,1610551409,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:05",,686b55fe1a68f,,N/A
+6162593,"DX Snyman",Nedbank,198765,119811506334,current,990.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:05",,686b560a31a6c,,N/A
+6162554,"Rirhandzu Lovey Maluleke",Tyme,678910,51053507565,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b06c491e0c,,N/A
+6162555,"Rowan Visser",FNB,250655,62571971433,current,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b06e3778bf,,N/A
+6162556,"LC Dithebe",Capitec,470010,1122508911,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b081142518,,N/A
+6162557,"R Ward",Standard,051001,026270307,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b0b6c6f62d,,N/A
+6162558,"BFD Serfontein",Capitec,470010,2416004197,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b0fda373e7,,N/A
+6162559,"Le banda",Capitec,470010,138090110970,savings,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b12068e8f4,,N/A
+6162560,"Jh jani",Capitec,470010,1730270512,savings,3500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b1538b3b55,,N/A

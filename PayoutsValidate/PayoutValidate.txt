@@ -1,0 +1,11 @@
+Line 1: Account validated successfully for QM Elias (Capitec, 470010, 2148625345 , savings)
+Line 2: Account validated successfully for Janine button (Standard, 051001, 255165064 , savings)
+Line 3: Account validated successfully for Sibongile Molale (Capitec, 470010, 1610551409 , savings)
+Line 4: Error in API request for DX Snyman: HTTP Status Code: 400, Response Content: {"success":false,"message":"There was an error sending request, try again later","action":"Validate","organisation_id":15974,"transactions":[{"bank":"Nedbank","branch":"198765","account":"119811506334","customer_name":"DX Snyman","account_type":"current","ERROR":"Invalid account number detected."}]}
+Line 5: Account validated successfully for Rirhandzu Lovey Maluleke (Tyme, 678910, 51053507565 , savings)
+Line 6: Account validated successfully for Rowan Visser (FNB, 250655, 62571971433 , current)
+Line 7: Account validated successfully for LC Dithebe (Capitec, 470010, 1122508911 , savings)
+Line 8: Account validated successfully for R Ward (Standard, 051001, 026270307 , savings)
+Line 9: Account validated successfully for BFD Serfontein (Capitec, 470010, 2416004197 , savings)
+Line 10: Error in API request for Le banda: HTTP Status Code: 400, Response Content: {"success":false,"message":"There was an error sending request, try again later","action":"Validate","organisation_id":15974,"transactions":[{"bank":"Capitec","branch":"470010","account":"138090110970","customer_name":"Le banda","account_type":"savings","ERROR":"Invalid account number detected."}]}
+Line 11: Account validated successfully for Jh jani (Capitec, 470010, 1730270512 , savings)

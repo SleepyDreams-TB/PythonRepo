@@ -6,7 +6,6 @@ import base64
 
 # API endpoint
 api_url = "https://services.callpay.com/api/v1/payout/validate-account"
-# api_auth = ("tiaanApiUAT", "5.9z0+!73qXWc{7)£#&1t}AbGj4W{E")
 username = "tiaanApiUAT"
 password = "5.9z0+!73qXWc{7)£#&1t}AbGj4W{E"
 
@@ -19,7 +18,6 @@ headers = {
     "Authorization": f"Basic {auth_encoded}"
 }
 
-# tiaanApiUAT:5.9z0+!73qXWc{7)£#&1t}AbGj4W{E
 
 # List of universal banking branch codes
 
@@ -52,7 +50,7 @@ universal_branch_codes = {
     "bankzero": "888000",
     " " : ""
 }
-
+validation_failed = []
 def validate_account(row, file_handle, line_number):
     # Prepare data for the API request
     data = {
@@ -68,18 +66,9 @@ def validate_account(row, file_handle, line_number):
     # Make the API request
     response = requests.post(api_url, headers=headers, data=data)
 
-    #Print request details
-    #print("Request Method:", response.request.method)
-    #print("Request URL:", response.request.url)
-    #print("Request Headers:", response.request.headers)
-    #print("Request Body:", response.request.body)  # May be None for GET requests
-
-    # Print the response content
-    #print("Response Status Code:", response.status_code)
-    #print("Response Body:", response.text)
-
     # Introduce a delay of 0.5 second between API requests
     time.sleep(0.5)
+    
 
     # Check the response
     if response.status_code == 200:
@@ -88,9 +77,11 @@ def validate_account(row, file_handle, line_number):
             output = f"Account validated successfully for {row['customer_name']} ({row['bank']}, {row['branch']}, {row['account']} , {row['account_type']})"
         else:
             output = f"Validation failed for {row['customer_name']}: {result['message']}"
+            validation_failed.append((row['customer_name'], result['message']))
+
     else:
         output = f"Error in API request for {row['customer_name']}: HTTP Status Code: {response.status_code}, Response Content: {response.text}"
-
+        validation_failed.append(f"Line {line_number}: {row['customer_name']}")
     # Write to file
     file_handle.write(f"Line {line_number}: {output}\n")
     # Print to console
@@ -99,7 +90,7 @@ def validate_account(row, file_handle, line_number):
 def main():
     # Construct the file path dynamically
     script_dir = os.path.dirname(os.path.realpath(__file__))
-    file_path = os.path.join(script_dir, "HowlerValidate.csv")
+    file_path = os.path.join(script_dir, "Easywire payout export.csv")
     output_file_path = os.path.join(script_dir, "PayoutValidate.txt")
 
     # Read CSV file and write to both file and console
@@ -107,6 +98,7 @@ def main():
         reader = csv.DictReader(csvfile)
         for line_number, row in enumerate(reader, start=1):
             validate_account(row, output_file, line_number)
-
+    
 if __name__ == "__main__":
     main()
+    print("Problematic Accounts:", validation_failed)

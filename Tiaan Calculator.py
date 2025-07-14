@@ -8,14 +8,6 @@ ops = {
     "**": operator.pow,
     "%": operator.mod
 }
-'''
-a = int(input("Input your first number: \n"))
-op = (input("Input your Operator: \n"))
-b = int(input("Input your second number: \n"))
-
-result = ops[op](a, b)
-print(result)
-'''
 
 calculation = input("Input your calculation: \n")
 numbers = []
