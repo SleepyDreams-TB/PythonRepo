@@ -30,15 +30,10 @@ resources = {
     "coffee": 100,
 }
 
-class coffee_machine():
+class coffee_machine:
   
-  profit = 0
-
-  def resources(self):
-      print("Resources:")
-      for resource, amount in resources.items():
-          print(f"{resource.title()}: {amount}ml")
-      return resources
+  def __init__(self):
+        self.profit = 0
 
   def report(self):
     print("--------------------------------------")
@@ -90,8 +85,8 @@ class coffee_machine():
         for item, amount in ingredients.items():
             if resources[item] < amount:
                 return f"Resources: Sorry, not enough {item}."
-            resources[item] -= amount
             if self.payment(coffee_type):
+                resources[item] -= amount
                 return(f"Here is your {coffee_type}!")
             else:
                 return "Payment failed. Insufficient Deposit. Please try again."
