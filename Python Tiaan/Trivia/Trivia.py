@@ -17,10 +17,10 @@ class trivia:
             question = question_data[i]
             Question = trivia(question['text'], str(question['answer']))
             question_bank.append(Question)
+        random.shuffle(question_bank)
         return question_bank
 
 continue_game = True
-   
 while continue_game:
     print("Welcome to the Trivia Game!")
     print("You will be asked a series of true or false questions.")
@@ -32,13 +32,12 @@ while continue_game:
     i = 1
     for question in question_bank:
         user_answer = input(f"Question {i}: {question.question} (true/false): ")
-        
         if question.check_answer(user_answer):
             print("Correct!")
             score += 1
-            i += 1
         else:
             print(f"Wrong! The correct answer is {question.answer}.")
-            i += 1
+        i += 1    
+        print(f"Questions Remaining: {len(question_bank) + 1 - i}")
     print(f"Your final score is {score + 1} out of {len(question_data)}.")
     continue_game = bool(input(" Thats all the questions. Do you want to continue? (yes/no): "))
