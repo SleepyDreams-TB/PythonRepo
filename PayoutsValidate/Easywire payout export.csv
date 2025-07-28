@@ -1,12 +1,219 @@
 id,customer_name,bank,branch,account,account_type,amount,type,organisation,organisation_id,owning_organisation,payout_status,created,batch_date,reference,external_reference,payout_type
-6162590,"QM Elias",Capitec,470010,2148625345,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:05",,686b5479b1555,,N/A
-6162591,"Janine button",Standard,051001,255165064,savings,2300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:05",,686b549e2c086,,N/A
-6162592,"Sibongile Molale",Capitec,470010,1610551409,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:05",,686b55fe1a68f,,N/A
-6162593,"DX Snyman",Nedbank,198765,119811506334,current,990.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:05",,686b560a31a6c,,N/A
-6162554,"Rirhandzu Lovey Maluleke",Tyme,678910,51053507565,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b06c491e0c,,N/A
-6162555,"Rowan Visser",FNB,250655,62571971433,current,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b06e3778bf,,N/A
-6162556,"LC Dithebe",Capitec,470010,1122508911,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b081142518,,N/A
-6162557,"R Ward",Standard,051001,026270307,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b0b6c6f62d,,N/A
-6162558,"BFD Serfontein",Capitec,470010,2416004197,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b0fda373e7,,N/A
-6162559,"Le banda",Capitec,470010,138090110970,savings,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b12068e8f4,,N/A
-6162560,"Jh jani",Capitec,470010,1730270512,savings,3500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-07 14:01:04",,686b1538b3b55,,N/A
+6177723,"Stuart Roe",Capitec,470010,1558749673,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a25f4ac7de,,N/A
+6177724,"Nishal Nunkumar",Nedbank,198765,1249900948,current,3888.25,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a2604458ab,,N/A
+6177725,"D Daniels",Standard,051001,201498332,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a269ecb7a7,,N/A
+6177726,"Xhakaza NMB",Capitec,470010,1455830907,savings,350.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a269f18a6d,,N/A
+6177727,"C A Shelver",Capitec,470010,1299021792,savings,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a26c3b6715,,N/A
+6177728,"MR R SAAIERS",Capitec,470010,1320963798,savings,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a26f64b373,,N/A
+6177729,"Munzhelele FC",Capitec,470010,1203001787,savings,2500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a270fa478c,,N/A
+6177730,"Burnadene Els",Absa,632005,9396016152,savings,1900.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a2732a580f,,N/A
+6177731,"Z Masuku",Absa,632005,9172508408,savings,850.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a27640cc90,,N/A
+6177732,"Mavis ndou",Capitec,470010,1551945094,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a278dd949a,,N/A
+6177733,"V aspeling",Capitec,470010,1603344894,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a27e19e7e0,,N/A
+6177734,"M Pillay",Capitec,470010,1645818886,savings,4000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a283341d21,,N/A
+6177735,"Z Bassadien",Capitec,470010,1264419080,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a284cd0483,,N/A
+6177736,"Natasha Rushin",Capitec,470010,1382565834,savings,2500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a28f35e586,,N/A
+6177737,"Kufekisa Daniel Anamela",FNB,250655,62399405557,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a28fd09600,,N/A
+6177738,Sbongile,Capitec,470010,1539048975,savings,350.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a2916bed52,,N/A
+6177739,"Mrs ER Metlhape",Capitec,470010,1886275732,savings,551.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a2917b0a5d,,N/A
+6177740,"Zandile Khumalo",Capitec,470010,1369723596,savings,640.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:54",,687a2936d57e2,,N/A
+6177685,"D Stander",Capitec,470010,1713415869,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a12c9142b6,,N/A
+6177686,"G shezi",Capitec,470010,1434191182,savings,3400.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1320598a8,,N/A
+6177687,"Gj breetzke",Absa,632005,4098890885,current,900.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a143d7a44e,,N/A
+6177688,"C Kruger",Capitec,470010,2407319253,savings,4000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a144949964,,N/A
+6177689,"Reneilwe Molote",Standard,051001,10178555507,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a146c30b9b,,N/A
+6177690,"Mr A potgieter",Absa,632005,9193897517,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a16cab2b3b,,N/A
+6177691,"Etienne van den Berg",Absa,632005,4075018842,current,400.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a17484a493,,N/A
+6177692,"RWA Fransman",Capitec,470010,1710639324,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a17b0780ba,,N/A
+6177693,"JH van Niekerk",Capitec,470010,1529696001,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a184035c81,,N/A
+6177694,"JD Hardy",Capitec,470010,1956098516,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1886e0568,,N/A
+6177695,"A ngobeni",Capitec,470010,2240064648,savings,472.63,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1943192ff,,N/A
+6177696,Tshepo,Capitec,470010,1403445387,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1958ba9c0,,N/A
+6177697,"S VAN DER MERWE",Afribank,430000,20019233012,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a19d477189,,N/A
+6177698,"A Pretorius",Capitec,470010,1657332428,savings,4000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1a7e31f0b,,N/A
+6177699,"Veronica Johnson",Standard,051001,10026477716,transmission,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1afacf15e,,N/A
+6177700,"NE Mbhele",Discovery,679000,15677600361,current,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1afba36c8,,N/A
+6177701,"M Small",Capitec,470010,1717300462,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1c1185605,,N/A
+6177702,"Janine button",Standard,051001,255165064,savings,550.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1c6d9c0bc,,N/A
+6177703,"Z van Niekerk",FNB,250655,62405635957,savings,1500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1d03baa75,,N/A
+6177704,"A Thysse",Tyme,678910,51028339128,savings,1020.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1da467b44,,N/A
+6177705,"Sb mbuyisa",Capitec,470010,1702523932,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1dc9cc103,,N/A
+6177706,Yusrah,Standard,051001,081467478,current,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1de7df9ce,,N/A
+6177707,murshin,Capitec,470010,1306999845,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1e434def8,,N/A
+6177708,"Ramabulana M V",Capitec,470010,2091857293,savings,4000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1e5060bc3,,N/A
+6177709,"Mr CUKULA",Capitec,470010,1548733340,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1e613b56f,,N/A
+6177710,"C van Wyk",Standard,051001,10106689736,savings,3500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1f49388a5,,N/A
+6177711,"W loggenberg",Tyme,678910,51054202838,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a1f9bde19c,,N/A
+6177712,"R Nel",Capitec,470010,2409151961,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a200907ac6,,N/A
+6177713,"Miss DL Mcadorey",Capitec,470010,1634617086,savings,3840.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a21a522d4f,,N/A
+6177714,"NM sibuyi",Capitec,470010,1296640017,savings,1400.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a21ec90dcc,,N/A
+6177715,"Enver Hoedemaker",FNB,250655,60029276264,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a2294049ba,,N/A
+6177716,"S marx",Capitec,470010,1541733515,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a22b18f33d,,N/A
+6177717,"AS Molaolwa",Standard,051001,040569594,current,2501.34,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a22d61392e,,N/A
+6177718,"Kyle Lundall",Capitec,470010,1274125527,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a23657fd1b,,N/A
+6177719,"MM Kriel",Absa,632005,9088163659,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a249bca9ee,,N/A
+6177720,Kim,Capitec,470010,1772445558,savings,3200.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a25400320d,,N/A
+6177721,"Jh jani",Capitec,470010,1730270512,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a25aebeb91,,N/A
+6177722,"SL Thiart",Capitec,470010,1508993252,savings,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:53",,687a25ef95ef8,,N/A
+6177645,"J Wolfaardt",Capitec,470010,1310262789,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879ec56cf995,,N/A
+6177646,"Mr J October",Capitec,470010,1478175018,savings,400.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879ed94a1383,,N/A
+6177647,"Terence McKenna",Tyme,678910,51034639642,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879ede2df2b3,,N/A
+6177648,"Shamila owies",Capitec,470010,1772792606,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879edfe4cb5d,,N/A
+6177649,"T vd Westhuizen",Capitec,470010,1120088710,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879eeea0ee02,,N/A
+6177650,"Martin Johan Dickson",Tyme,678910,51094971810,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879ef20b8235,,N/A
+6177651,"Zenobia Amod",FNB,250655,62804666660,savings,2600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879ef4890247,,N/A
+6177652,"L Makeke",Capitec,470010,2352279549,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879ef5d1e1ce,,N/A
+6177653,"L Pretorius",Absa,632005,4070071500,current,4000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f11348174,,N/A
+6177654,"Yolandi Havenga",Absa,632005,4108214634,current,400.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f2bc727a9,,N/A
+6177655,"Alutanganyi mbambale",Capitec,470010,1663713802,savings,1700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f349b4969,,N/A
+6177656,"L petersen",Absa,632005,4047045320,current,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f3877b55d,,N/A
+6177657,"Bianca willemse",Capitec,470010,1486760528,savings,400.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f3b69d1e6,,N/A
+6177658,Sengomane,Capitec,470010,1368362956,savings,1150.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f562edae6,,N/A
+6177659,"SE Boon",FNB,250655,63127452041,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f6328cf45,,N/A
+6177660,"Miss KM Petretto",FNB,250655,62941615819,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f6b189646,,N/A
+6177661,"Hein Boon",Capitec,470010,1125087631,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f6fa921d0,,N/A
+6177662,"Clarise Bezuidenhout",FNB,250655,63044789113,current,3500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f8709173c,,N/A
+6177663,"DX Snyman",Nedbank,198765,1198506334,current,4600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f8fa9228d,,N/A
+6177664,Simons,FNB,250655,62875227011,current,4000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879f96b63844,,N/A
+6177665,"Elvirno Engelbrecht",Standard,051001,10054652772,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879fc3a0da80,,N/A
+6177666,"M Bock",Capitec,470010,1206099982,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,6879ff7cdc025,,N/A
+6177667,"PREAN GOVENDER",FNB,250655,62830422937,savings,1700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a004569f9a,,N/A
+6177668,"Johannes Hellyer",Capitec,470010,1484629270,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a01a300184,,N/A
+6177669,"D kugesan",Absa,632005,4090737601,current,497.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a049fb5e78,,N/A
+6177670,"MS L MPHAHLELE",Capitec,470010,1555995703,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a04c6c5b51,,N/A
+6177671,Llewellyn,Capitec,470010,1608892571,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a055e42464,,N/A
+6177672,"Nicolaas J de Beer",FNB,250655,62715315588,current,2800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a05b1c8751,,N/A
+6177673,"Wj vd Merwe",Absa,632005,16909831,savings,2500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a088f591f1,,N/A
+6177674,"S Tshabalala",Tyme,678910,51070730618,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0b3a007c4,,N/A
+6177675,"L Nyambi",Capitec,470010,1279934598,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0b9cabcb3,,N/A
+6177676,Promise,Capitec,470010,1532711318,savings,304.70,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0d7a9d53d,,N/A
+6177677,"JJ Johnson",Capitec,470010,1349290104,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0dbd79259,,N/A
+6177678,"MR TA GWAMANDA",Capitec,470010,1623852380,savings,1200.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0e4a76a45,,N/A
+6177679,"P Moodley",Capitec,470010,1341985294,savings,290.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0e7308a3e,,N/A
+6177680,"Mrs BA Manuel",Capitec,470010,1358502887,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0ecfb24ac,,N/A
+6177681,"H Schroeder",Absa,632005,4040372728,savings,3500.85,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0f6d59ee4,,N/A
+6177682,Khanyisile,Capitec,470010,1181903155,savings,333.67,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a0fd7d01fc,,N/A
+6177683,Drienie,Capitec,470010,1378466037,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a1105a4717,,N/A
+6177684,"MB Isaacs",Capitec,470010,1421151160,savings,900.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:52",,687a1283d318d,,N/A
+6177606,"NH Thwala",Tyme,678910,51042357303,savings,416.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879a04a4deba,,N/A
+6177607,"M Momberg",Capitec,470010,1703520597,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879a93ecae07,,N/A
+6177608,"S Moosa",FNB,250655,51011310417,current,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879aa719c9ff,,N/A
+6177609,"Z Dlamini",Capitec,470010,1836803042,savings,902.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879abc8ac9f5,,N/A
+6177610,"Diane van der Merwe",FNB,250655,62377847713,current,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879af40b7781,,N/A
+6177611,"Ng buthelezi",Capitec,470010,1330924965,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879b15d765bc,,N/A
+6177612,"E mhangani",Tyme,678910,51019291094,savings,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879b1ce8c861,,N/A
+6177613,"D A Nunes",Absa,632005,4099465245,current,900.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879b78874a30,,N/A
+6177614,"SP Masiteng",Capitec,470010,1447622616,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879bbe8becd7,,N/A
+6177615,Gert,FNB,250655,63113684913,current,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879bc06522a6,,N/A
+6177616,"VA Ndzetshe",Capitec,470010,1238965324,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879c14f46275,,N/A
+6177617,Melissa,Standard,051001,070500576,current,2300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879c172e3cfb,,N/A
+6177618,"Gladwin Kasper",Capitec,470010,2243862073,savings,1491.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879c22d11e9d,,N/A
+6177619,Bernice,Capitec,470010,1414877240,savings,900.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879cd0c9b698,,N/A
+6177620,"Rolita Pedro",Capitec,470010,1420829562,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879cfc306567,,N/A
+6177621,"Tm manzini",Capitec,470010,1479816793,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d1a847116,,N/A
+6177622,RFebruarie,Capitec,470010,1342669922,savings,1100.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d37611412,,N/A
+6177623,"KM Visser",Capitec,470010,1366609318,savings,1500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d4db2b622,,N/A
+6177624,"H Janse van Rensburg",FNB,250655,62683157715,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d75fabfbc,,N/A
+6177625,Mogomotsi,Capitec,470010,1435424946,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d77cb18fc,,N/A
+6177626,"GAJ SMITH",Capitec,470010,1834183543,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d7d828da0,,N/A
+6177627,"M Tucker",Standard,051001,10173528293,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d81c9f4ae,,N/A
+6177628,"TSATSI GJ",Capitec,470010,1356034304,savings,550.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d8c91175c,,N/A
+6177629,"D Espadeiro",Capitec,470010,1656278144,savings,750.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879d8ddada09,,N/A
+6177630,"J Thorpe",Standard,051001,10240409556,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879db786216a,,N/A
+6177631,Msrtrydom,Capitec,470010,1708411818,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879dcefa639c,,N/A
+6177632,"M Oosthuizen",Capitec,470010,1676977579,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879dd012a659,,N/A
+6177633,"C van der Meijde",FNB,250655,62862038877,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879dd6c84043,,N/A
+6177634,Yongama,Capitec,470010,1542739878,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879dd8a2e21d,,N/A
+6177635,"David white",Absa,632005,4082005757,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879de15b493e,,N/A
+6177636,"MM Masabane",Capitec,470010,1683825509,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879de954218d,,N/A
+6177637,"Chantal Beukes",Capitec,470010,1751133433,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879e2e5ad41e,,N/A
+6177638,"Robert De Jager",Absa,632005,01102500152,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879e324608f4,,N/A
+6177639,"Memory Mustard",Nedbank,198765,1212999150,current,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879e421f015a,,N/A
+6177640,"S Marinus",FNB,250655,62204482195,current,900.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879e49c60c65,,N/A
+6177641,"MR KP SEKHOTO",Capitec,470010,1765272643,savings,520.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879e7ea3f398,,N/A
+6177642,RvdBerg,FNB,250655,62808876075,current,4000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879e8ad72ada,,N/A
+6177643,"T shum",Standard,051001,10139096300,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879eb2627e80,,N/A
+6177644,"M Uys",Absa,632005,4091063695,current,1297.13,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:51",,6879ebe4ccaf1,,N/A
+6177568,"R Harilall",Absa,632005,4050927634,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879700e0817d,,N/A
+6177569,"Leon Sibusiso Nkosi",Capitec,470010,1732333295,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68797072b996c,,N/A
+6177570,"L Roberts",Discovery,679000,13903844434,savings,1500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,687970aa9814a,,N/A
+6177571,"Clemercia Selowa",Standard,051001,753778114,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879727a21883,,N/A
+6177572,Zintle,Capitec,470010,1540645140,savings,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879744a310e4,,N/A
+6177573,"Jj Jason",Capitec,470010,1493004954,savings,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879756c7ebfd,,N/A
+6177574,"s macauley",Absa,632005,4070047426,current,3513.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879759fa2a34,,N/A
+6177575,Martinus,Nedbank,198765,1195057253,current,1898.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,687975bdccc4d,,N/A
+6177576,"Z adam",Standard,051001,10171915435,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,687975fa0bb50,,N/A
+6177577,"Stephanie Ayer",Capitec,470010,1484902287,savings,1250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68797755b672b,,N/A
+6177578,"BM Hlongwane",Standard,051001,060138823,current,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68797abfa5af9,,N/A
+6177579,"Bl Dreyer",Capitec,470010,1775483930,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68797b7131d98,,N/A
+6177580,"H S Schoeman",FNB,250655,62837758294,current,4000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68797b8357ccf,,N/A
+6177581,"Ms PG Maroele",Capitec,470010,1362280192,savings,260.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68797d4e66469,,N/A
+6177582,"Bn mthethwa",Capitec,470010,1572669835,savings,299.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68797d746dc2a,,N/A
+6177583,Zubeida,Capitec,470010,1398170400,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,687980d7b9fc4,,N/A
+6177584,"MR DOUGLAS",Sasfin,683000,78601482366,savings,400.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798138e3be6,,N/A
+6177585,"Raymond Sibiya",Capitec,470010,2178159954,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,687982edb657d,,N/A
+6177586,"WL Mitchell",Capitec,470010,1541771042,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798740cd116,,N/A
+6177587,"MS Z DLAMINI",Capitec,470010,1383876108,savings,451.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798850e10af,,N/A
+6177588,"F baker",Capitec,470010,2328213878,savings,1500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879894c53566,,N/A
+6177589,"CherylAnn Jansen",FNB,250655,62101627810,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798be09e227,,N/A
+6177590,"A Jacobs",Capitec,470010,1295842481,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798cafbb9ab,,N/A
+6177591,1416885259,Capitec,470010,1416885259,savings,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798d42616e6,,N/A
+6177592,"Rirhandzu Lovey Maluleke",Tyme,678910,51053507565,savings,651.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798d4cee944,,N/A
+6177593,Paballo,Capitec,470010,1634540032,savings,280.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798d6ecf9af,,N/A
+6177594,Kymaqoga,Capitec,470010,1258482027,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68798e9ab40ab,,N/A
+6177595,"RP Ngwepe",Capitec,470010,1438684175,savings,3200.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,687994fd0e495,,N/A
+6177596,"S W Ndaba",Capitec,470010,1173074331,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,687995868a564,,N/A
+6177597,Sizakele,Capitec,470010,1234968493,savings,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879958ab5fce,,N/A
+6177598,Marcia,Capitec,470010,1226245127,savings,1300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879985fadf01,,N/A
+6177599,"Rowan Visser",FNB,250655,62571971433,current,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68799a96a9f10,,N/A
+6177600,"BG Mthembu",Capitec,470010,1266542378,savings,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68799ae38bde0,,N/A
+6177601,"R Devchan",Capitec,470010,2162131249,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68799bb7d338c,,N/A
+6177602,"ST Mnisi",Capitec,470010,1303158696,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68799dad33a8c,,N/A
+6177603,"MM MPITI",Capitec,470010,1429400771,savings,1200.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68799ef9766cd,,N/A
+6177604,"Mr Malumane",Capitec,470010,1650940996,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,68799f01025f4,,N/A
+6177605,"S Nkabinde",Capitec,470010,1721109518,savings,810.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:50",,6879a014d9c0f,,N/A
+6177530,"S sibaya",Capitec,470010,1126032679,savings,350.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687955a6588fc,,N/A
+6177531,"K t mositsa",Capitec,470010,2020619063,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879564c838c9,,N/A
+6177532,"Ngwenya PC",Capitec,470010,1578989548,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879570023851,,N/A
+6177533,Rashole,Capitec,470010,1758773845,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879581cf00fc,,N/A
+6177534,"S ONTONG",Nedbank,198765,1202581560,current,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879582688aaf,,N/A
+6177535,"N Hector",FNB,250655,62913320553,savings,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879589532340,,N/A
+6177536,"MR VE MASHEGO",Capitec,470010,2365505186,savings,1100.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795898515f5,,N/A
+6177537,"MS Moolman",Capitec,470010,1714078653,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687958b7221c4,,N/A
+6177538,"M HOFFMAN",Absa,632005,4097666714,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687958dde172d,,N/A
+6177539,Shamiz,Standard,051001,10151960214,savings,900.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795a67984cf,,N/A
+6177540,MNMoeti,Capitec,470010,1119203811,savings,1200.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795a81c50fc,,N/A
+6177541,"Mathabo Motshegwa",Capitec,470010,1419417817,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795ba5cb6a1,,N/A
+6177542,"Miss nkgapele mm",Standard,051001,10241284293,savings,901.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795d72c170f,,N/A
+6177543,"Bf linde",Capitec,470010,1701615817,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795deb1d41d,,N/A
+6177544,"Js barraball",Capitec,470010,1489365573,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795df29a543,,N/A
+6177545,700,Tyme,678910,51012490218,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795ee113443,,N/A
+6177546,"MP Mzangoa",Capitec,470010,1705805327,savings,260.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68795f50bfef2,,N/A
+6177547,"AJ Scrowther",FNB,250655,62366407320,current,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687960a9d2472,,N/A
+6177548,"Salphina Maluleke",Capitec,470010,1390501785,savings,350.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879622ae2d01,,N/A
+6177549,Joseph,Capitec,470010,1392604166,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879634464252,,N/A
+6177550,Paschal,Standard,051001,10147946245,current,335.30,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687963ff82d50,,N/A
+6177551,"WR van Eck",Capitec,470010,1697920800,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796403b4bc3,,N/A
+6177552,"Victor semosa",Capitec,470010,1267861280,savings,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879644c20524,,N/A
+6177553,Zanele,Capitec,470010,1320697478,savings,380.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687965c1e5cc6,,N/A
+6177554,"A Beetge",Tyme,678910,51014104985,savings,1900.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879664b88aa7,,N/A
+6177555,"Gillian van der Hoeven",Capitec,470010,1632733607,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796674a2abc,,N/A
+6177556,"Sn jeleni",Capitec,470010,1323391809,savings,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687966b222942,,N/A
+6177557,"Rebecca Nobuhle Mazongolo",Capitec,470010,1321292919,savings,250.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687967385525b,,N/A
+6177558,"Sj Pieters",Capitec,470010,1388110014,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,687967c4bc9b7,,N/A
+6177559,Jbosch,Capitec,470010,1352452713,savings,300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796806ec654,,N/A
+6177560,"K I Lindsay",Tyme,678910,51009064946,current,2001.60,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,6879694844b66,,N/A
+6177561,"P Mentz",FNB,250655,62014142814,current,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796970e5cad,,N/A
+6177562,MNtoahae,Capitec,470010,1204850494,savings,2000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796a080d3f2,,N/A
+6177563,"T Mackie",FNB,250655,50191192539,current,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796ae6c0f35,,N/A
+6177564,"Lukhwa AR",Capitec,470010,1719339765,savings,3000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796bee8cf19,,N/A
+6177565,"Go ngidi",Capitec,470010,1563106939,savings,3500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796e37ecdf4,,N/A
+6177566,"R Roopnarian",Absa,632005,9325345497,savings,1500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796e8cab141,,N/A
+6177567,"JE VAN KESTEREN",Capitec,470010,1437167509,savings,800.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:49",,68796f241ad83,,N/A
+6177523,"RD Maphakane",Capitec,470010,1263507555,transmission,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:48",,68794cf592148,,N/A
+6177524,"Meghan Nelson",Capitec,470010,1621258538,savings,1300.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:48",,68794e5a0ad8d,,N/A
+6177525,"Nobuhle nkosi",Capitec,470010,1293558832,savings,1000.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:48",,68794fa468330,,N/A
+6177526,"V govenden",Capitec,470010,1404840220,savings,600.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:48",,6879507c17516,,N/A
+6177527,"Henry John van Staden",Tyme,678910,51112749796,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:48",,6879523be5f83,,N/A
+6177528,"J Govender",Tyme,678910,51000607977,current,700.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:48",,687953b3e14e3,,N/A
+6177529,Shahied,Absa,632005,9366710059,savings,500.00,Payout,"PJ EFT",15966,EasyWire,Processing,"2025-07-18 14:00:48",,6879555863d0a,,N/A
