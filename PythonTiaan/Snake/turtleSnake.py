@@ -70,7 +70,7 @@ class Snake:
             new_y = self.segments[i - 1].ycor()
             self.segments[i].goto(new_x, new_y)
 
-        # Apply direction change
+        # Move head
         if self.can_change_direction(self.next_direction):
             self.direction = self.next_direction
 

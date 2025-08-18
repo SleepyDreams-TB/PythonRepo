@@ -1,0 +1,464 @@
+id,customer_name,bank,branch,account,account_type,amount,type,organisation,organisation_id,owning_organisation,payout_status,created,batch_date,reference,external_reference,payout_type
+6197152,Nothabo Princess  Tshuma,ABSA,632005,9383329865,savings,5000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 13:09,,516649091,,N/A
+6197115,Nonqithakalo Nancy  Madolo,CAPITEC,470010,2026137354,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:57,,516645083,,N/A
+6197114,Kurt Cameron,FNB,250655,62295915212,current,500.99,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:56,,516644928,,N/A
+6197113,amohelang  mtsweni ,CAPITEC,470010,1440309564,savings,1200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:56,,516643165,,N/A
+6197112,Rina Annandale,FNB,250655,62362145916,current,6000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:56,,516644567,,N/A
+6197110,Meidjie Mearie  Milton ,CAPITEC,470010,1505701021,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:56,,516642624,,N/A
+6197111,Maurice Bernardo,NEDBANK,198765,1250236371,current,507,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:56,,516643609,,N/A
+6197109,Thabiso Latakgomo,CAPITEC,470010,1534318397,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:56,,516644392,,N/A
+6196957,Sherav Singh,FNB,250655,63096963757,savings,8000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:44,,516640490,,N/A
+6196956,Ruhan Cilliers,DISCOVERY,679000,16676044308,savings,25000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:43,,516638362,,N/A
+6196953,Maria Litchfield ,ABSA,632005,4118519052,current,1600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:43,,516636953,,N/A
+6196954,SONTO SIBIYA,NEDBANK,198765,1250538866,current,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:43,,516637655,,N/A
+6196955,Dave Duffy,NEDBANK,198765,1285448294,current,2624.88,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:43,,516637700,,N/A
+6196809,Ricus Alkema,CAPITEC,470010,1728898208,savings,18000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:32,,516636346,,N/A
+6196808,Nobuhle  Dumakude ,CAPITEC,470010,1646835326,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:32,,516636471,,N/A
+6196807,Gerhard Grobler,NEDBANK,198765,1108703003,current,45000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:32,,516636032,,N/A
+6196803,Charlene Beukes,CAPITEC,470010,1347706451,savings,50000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516299000,,N/A
+6196802,Byronne Van der westhuizen ,ABSA,632005,4071941097,current,50009,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516368168,,N/A
+6196801,Calvin Nascimento,CAPITEC,470010,1681681003,savings,60000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516626742,,N/A
+6196800,Anthony Marx,CAPITEC,470010,1419428843,savings,75000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516234471,,N/A
+6196799,Jaco Venter,STANDARD,51001,10161897949,current,75000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,515998248,,N/A
+6196797,Rameez Fredericks,CAPITEC,470010,1399205879,savings,50000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516476546,,N/A
+6196798,Craig  Bain ,DISCOVERY,679000,17895974091,current,50000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516337150,,N/A
+6196796,Wenty Fletcher,CAPITEC,470010,1321425242,savings,50000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516621093,,N/A
+6196793,Rose Mathebula,CAPITEC,470010,1365931380,savings,35000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516404756,,N/A
+6196794,Corne Genis,DISCOVERY,679000,14202561966,current,3500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,516634896,,N/A
+6196795,Julian Morrison,FNB,250655,63133988642,current,28000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:30,,515800228,,N/A
+6196785,Ismarelda Bruyns,TYME,678910,51021889543,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:24,,516633372,,N/A
+6196778,Hester  Mare ,NEDBANK,198765,1979320411,current,30000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:24,,516442574,,N/A
+6196779,Jurgens Meyer,CAPITEC,470010,1416208249,savings,30000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:24,,516108050,,N/A
+6196780,Brinton Slater,FNB,250655,62857393020,current,24902,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:24,,515766437,,N/A
+6196775,Bradley Ward,NEDBANK,198765,1121909515,current,23000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:23,,516371390,,N/A
+6196774,Nwabisa Maseti,CAPITEC,470010,1539310785,savings,20000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:23,,515392097,,N/A
+6196773,Daniel Cox,FNB,250655,63096251459,current,22533.35,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:23,,516180568,,N/A
+6196772,Jessica Ada,ABSA,632005,9250565902,current,20000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:23,,516242541,,N/A
+6196771,KAMOGELO  Sekgota,CAPITEC,470010,1687461064,savings,19100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:23,,516105411,,N/A
+6196769,Nicholas Burgers,CAPITEC,470010,1380447508,savings,16000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:23,,516396717,,N/A
+6196770,Juan DU Bruyn,FNB,250655,62812359215,savings,18000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:23,,514892941,,N/A
+6196756,Ian Van Greunen,STANDARD,51001,10142176697,current,15300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:21,,516561816,,N/A
+6196755,Juan  Gardner,CAPITEC,470010,1668960956,savings,15000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:21,,515417409,,N/A
+6196754,Anver Bhayat,STANDARD,51001,10082096811,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:21,,516632733,,N/A
+6196749,Marusha Nadar ,ABSA,632005,4108797474,current,15000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516577133,,N/A
+6196747,Patsy Mundie ,FNB,250655,50650314103,current,15000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516588763,,N/A
+6196746,Gareth De Vos,FNB,250655,62914787330,current,15000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516595465,,N/A
+6196745,Joseph  Vieira ,STANDARD,51001,201466899,current,14000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,515946156,,N/A
+6196744,MC  Venter,NEDBANK,198765,1135374597,current,14000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516629910,,N/A
+6196742,Wayne  Naicker,NEDBANK,198765,1227774982,current,12000.4,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516607956,,N/A
+6196743,Verona  Jugdew ,FNB,250655,62816719093,current,10000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516094143,,N/A
+6196741,Gerhard van Niekerk,STANDARD,51001,10196682981,savings,13000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516382333,,N/A
+6196740,Zamokuhle Nxumalo,CAPITEC,470010,1146932373,savings,11000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,515025511,,N/A
+6196739,Deoni Van Der Merwe,NEDBANK,198765,1051829380,current,11000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516434576,,N/A
+6196738,Logan Pillay,FNB,250655,62079822170,current,10800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516362082,,N/A
+6196736,Wernich  Botha,FNB,250655,62684124771,current,10000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516580574,,N/A
+6196733,Aaron Wilke,CAPITEC,470010,1703066500,savings,10000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,515644187,,N/A
+6196734,Mundus Grove,INVESTEC,580105,10010920254,current,10000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516127868,,N/A
+6196735,Madelein Hoffman,ABSA,632005,4097666714,current,10018.58,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:19,,516142858,,N/A
+6196732,Jason  Krafft ,NEDBANK,198765,1158216408,current,9500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,515224260,,N/A
+6196731,Sbongiseni  Zungu ,TYME,678910,51115985848,current,9000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516342189,,N/A
+6196730,Vaughn Thomas,CAPITEC,470010,2284121213,savings,9000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516598557,,N/A
+6196729,Chris  Benzien,NEDBANK,198765,1250102952,current,9000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516626591,,N/A
+6196728,Magdalena Kearley,AFRIBANK,430000,20151479409,savings,9000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516626486,,N/A
+6196727,Michael Jeenes,STANDARD,51001,202356736,current,8500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516134035,,N/A
+6196726,Vleis Paleis,FNB,250655,63095191490,savings,8500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516178299,,N/A
+6196725,Sibongile  Lituka,ABSA,632005,9390244806,savings,8000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516498612,,N/A
+6196724,Fumanekile  Nkonzo ,NEDBANK,198765,2098549199,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516632385,,N/A
+6196722,Charl Theron,NEDBANK,198765,1039049885,current,8000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516590760,,N/A
+6196723,Thiago Correia,CAPITEC,470010,2379399472,savings,8000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516233786,,N/A
+6196721,Renzaan Otto,TYME,678910,51093950260,savings,7500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516551557,,N/A
+6196720,Thabang Ramatsakana,CAPITEC,470010,1633961786,savings,7220,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516058450,,N/A
+6196719,Helena Kruis,NEDBANK,198765,1520024592,current,7000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,515663016,,N/A
+6196717,Shaun Swartz,CAPITEC,470010,2190852680,savings,5164.4,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516631178,,N/A
+6196718,Monene Botha,STANDARD,51001,10134542582,current,7000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,515720239,,N/A
+6196716,Patricia Sepeng,CAPITEC,470010,1590796940,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:18,,516631962,,N/A
+6196712,Frederick jacobus  Beeselaar,CAPITEC,470010,1419683657,savings,2500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:16,,515657815,,N/A
+6196711,William Turner,FNB,250655,62452563680,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:16,,516043635,,N/A
+6196706,Reiny Du Toit,CAPITEC,470010,1762156014,savings,1800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:13,,515727531,,N/A
+6196705,Micheala Gertse,CAPITEC,470010,1691007631,savings,7000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:12,,516435958,,N/A
+6196704,Raven Skinner,FNB,250655,62326622182,savings,6500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:12,,516598200,,N/A
+6196703,Alicia Willemse,NEDBANK,198765,1180447840,current,7000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:12,,516605630,,N/A
+6196702,Matthew Bock,FNB,250655,62779105181,savings,6476.47,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516422392,,N/A
+6196701,Natascha  Bowman ,FNB,250655,62887058412,savings,6000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515544568,,N/A
+6196700,Steven Versfeld,ABSA,632005,1289060606,current,6000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515595565,,N/A
+6196698,Rowen Naidoo,STANDARD,51001,10166378702,current,6000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516422004,,N/A
+6196699,Bianca Du toit,CAPITEC,470010,1306148748,savings,6000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516194373,,N/A
+6196697,Byron  Van Dyk,ABSA,632005,9324573269,current,5900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516612487,,N/A
+6196695,Juan Le Roux,FNB,250655,62703865686,savings,5100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515988922,,N/A
+6196696,Quintin Mudge,STANDARD,51001,10037291384,savings,5300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515006803,,N/A
+6196694,Lyle Pedro,CAPITEC,470010,1899886913,savings,5080.5,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516585701,,N/A
+6196693,Gizelle Versfeld,TYME,678910,51001581800,savings,5027,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515796360,,N/A
+6196692,jan etsebeth,FNB,250655,63028790871,current,5000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515553950,,N/A
+6196691,Luke Baynes,STANDARD,51001,10238496315,current,5000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515813922,,N/A
+6196690,Londiwe  Mbatha,CAPITEC,470010,1122061917,savings,5000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515831350,,N/A
+6196689,Adriaan Louw,FIRSTRAND,201419,62448868268,current,5000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516062529,,N/A
+6196688,Esme Neethling,ABSA,632005,1036731016,current,5000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516587122,,N/A
+6196687,Lian Van der merwe,STANDARD,51001,10095195090,current,5000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516625328,,N/A
+6196686,Joshua Levin,STANDARD,51001,74646087,current,4500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516109785,,N/A
+6196685,Nondumiso Jalisile,CAPITEC,470010,1628823443,savings,4500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516497719,,N/A
+6196684,Dirk Loubser,ABSA,632005,4074377661,current,4500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516606515,,N/A
+6196683,Gordon Van Wyk,NEDBANK,198765,1185838007,current,4400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516522524,,N/A
+6196682,Juanita Smith Sampson,ABSA,632005,4077868007,current,4000.26,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516318347,,N/A
+6196681,Tyla Mcleod,FNB,250655,62812857780,current,4000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515017608,,N/A
+6196675,Eugene Nothnagel,CAPITEC,470010,1390810621,savings,4000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516421844,,N/A
+6196676,Hannes Van Niekerk,CAPITEC,470010,1327483899,savings,4000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515031089,,N/A
+6196677,Busisiwe Mtanti,CAPITEC,470010,1340486278,savings,4000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515466253,,N/A
+6196678,Pearl Mhlamvu,FIRSTRAND,201419,62307143917,current,4000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516606802,,N/A
+6196679,Aninn Matsinhe,CAPITEC,470010,1314986854,savings,4000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,516190569,,N/A
+6196680,Umar Obaray,CAPITEC,470010,1245669123,savings,4000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:11,,515310474,,N/A
+6196673,Nelus Groesbeek,FNB,250655,63105204208,current,3900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516047855,,N/A
+6196671,Desmaureen Cloete,CAPITEC,470010,1711587727,savings,3700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,514954562,,N/A
+6196672,Kedibone Maila,CAPITEC,470010,1705504467,savings,3760.8,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,515574305,,N/A
+6196670,Sanele Gumede ,ABSA,632005,9317739814,current,3501.55,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516548851,,N/A
+6196669,Nomfundo Mvusi,CAPITEC,470010,1571780228,savings,3400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516057355,,N/A
+6196668,Yoland Rautenbach,STANDARD,51001,10177558294,savings,3300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516599623,,N/A
+6196667,Dean Stanford,ABSA,632005,4084196128,current,3000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,515694944,,N/A
+6196666,Sanchia  Botha,ABSA,632005,9346288280,savings,3000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516588250,,N/A
+6196665,Christina Marw,CAPITEC,470010,1225259825,savings,3000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,515705934,,N/A
+6196664,Velisiwe Ngema,TYME,678910,51005070321,savings,3000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516603602,,N/A
+6196663,Tammy De Witt,ABSA,632005,4097610878,current,3000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516620195,,N/A
+6196661,kyle Bernhardt,CAPITEC,470010,2234070062,savings,2800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516618969,,N/A
+6196660,Lerato Masilela,CAPITEC,470010,1926703659,savings,2700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,516541076,,N/A
+6196658,Debra Piek,CAPITEC,470010,1619259360,savings,2500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,515700012,,N/A
+6196659,Allan Mcmullin,CAPITEC,470010,1830528856,savings,2500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,515628412,,N/A
+6196657,Kristine Martin,CAPITEC,470010,1224377433,savings,2500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:10,,515783872,,N/A
+6196656,Tlotlo Michael Mopalami ,CAPITEC,470010,1298062452,savings,2500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:09,,516346334,,N/A
+6196654,Jamey Waldegrave,CAPITEC,470010,1610449035,savings,2500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:09,,516619355,,N/A
+6196653,Brendt Cope ,STANDARD,51001,10134947582,current,2300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,516549074,,N/A
+6196652,Maritza  Verwey ,STANDARD,51001,654171238,savings,2400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,516386100,,N/A
+6196651,Lesego Lekwadu,FNB,250655,62872932043,savings,2200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515273242,,N/A
+6196649,Jessica  Roos,DISCOVERY,679000,19260158570,savings,2000.1,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515471368,,N/A
+6196650,Sam Rudolph,CAPITEC,470010,1488500744,savings,2200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,516142841,,N/A
+6196648,Sakina Olga,CAPITEC,470010,1388117981,savings,2050,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,516480000,,N/A
+6196647,Inus Nigrini,FIRSTRAND,201419,62826398100,current,2004.4,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515234441,,N/A
+6196646,elzabe kairuz,ABSA,632005,4106645318,current,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,514923529,,N/A
+6196645,Michelle Bourne ,FNB,250655,62594701023,current,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,514948352,,N/A
+6196644,Nokuthula Twala,CAPITEC,470010,1449690279,current,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,514986165,,N/A
+6196642,Andrussa  Goliath,CAPITEC,470010,1611855797,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515137325,,N/A
+6196643,Dean Badenhorst ,CAPITEC,470010,1937872511,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515153642,,N/A
+6196641,Fhulufhelo Netshifhefhe,CAPITEC,470010,1200659323,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515405793,,N/A
+6196640,Robert  De Jager ,ABSA,632005,1102500152,current,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515424452,,N/A
+6196638,Girsten Glesten  WILLIAMS ,CAPITEC,470010,1570514052,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515461651,,N/A
+6196637,wade simons,CAPITEC,470010,1548869943,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515456880,,N/A
+6196636,Raazia  Domanlall ,CAPITEC,470010,1388601255,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,515601359,,N/A
+6196632,Basil De swardt,NEDBANK,198765,1039134246,current,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,516263953,,N/A
+6196633,Seyaam Solomon ,TYME,678910,51026637959,current,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,516056396,,N/A
+6196634,Rickus Botha,FNB,250655,62838509381,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,516424480,,N/A
+6196635,Chrizane Horn,FNB,250655,62578631634,current,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:08,,516279272,,N/A
+6196631,Aubrey  Jeoffreys,STANDARD,51001,10153113314,savings,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516549490,,N/A
+6196630,Lucille Ridings,FIRSTRAND,201419,62234325448,current,2000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516612820,,N/A
+6196629,Allan  Bent,ABSA,632005,4091205928,current,1998,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,515877687,,N/A
+6196628,Denver Chetty,CAPITEC,470010,1550852416,savings,1900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516586820,,N/A
+6196627,Juan Van der berg ,CAPITEC,470010,1899135829,savings,1900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516626427,,N/A
+6196626,Geneveve Kuhn,CAPITEC,470010,1691959063,savings,1850,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516255762,,N/A
+6196625,Shannon Nortje,CAPITEC,470010,1468120334,savings,1800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,515111889,,N/A
+6196624,Talica  Olivier ,ABSA,632005,4119639174,current,1800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516575500,,N/A
+6196623,Nokulunga Mkhize,CAPITEC,470010,1141526555,savings,1800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516592765,,N/A
+6196622,Marko Erlank,FNB,250655,63156151804,current,1700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516621364,,N/A
+6196621,Dantre Haasbroek,FNB,250655,62789739376,current,1651,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,515586048,,N/A
+6196620,Getrude Kgothatso  Moeng,CAPITEC,470010,1370099477,savings,1600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,514906078,,N/A
+6196619,Ruan Bekker,NEDBANK,198765,1105769941,current,1600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,515531741,,N/A
+6196618,Mantsopa  Mbhele,CAPITEC,470010,1982094514,savings,1600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,516565861,,N/A
+6196615,HUEY MANUEL,FNB,250655,62757311841,current,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,515145779,,N/A
+6196616,Anna Jurgenson ,ABSA,632005,9186040365,savings,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,515751167,,N/A
+6196617,Senusha Chinniah,STANDARD,51001,20069065,current,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:07,,514922436,,N/A
+6196614,Mark Bazier,DISCOVERY,679000,18181926835,savings,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:06,,516049236,,N/A
+6196613,Franco Carlo Popolillo,FIRSTRAND,201419,62794006265,current,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:06,,516234502,,N/A
+6196612,Bryce Allan Sharp,FNB,250655,62859995220,current,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:06,,516421901,,N/A
+6196611,Paul jason Karam,TYME,678910,51099857734,savings,915,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 12:06,,516628065,,N/A
+6196604,Alan Bright,FIRSTRAND,201419,62109317489,current,1440,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,515564594,,N/A
+6196603,Zelda  Wiltshire ,ABSA,632005,9186253132,current,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,516593535,,N/A
+6196602,Kayla Nell,ABSA,632005,9083446482,current,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,516601473,,N/A
+6196601,Bhekuyise  Mbuthu,ABSA,632005,4066639352,current,1359.98,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,516541129,,N/A
+6196600,Adin Chetty,CAPITEC,470010,2144682875,savings,1500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,516605991,,N/A
+6196598,Francois Janse van Rensburg,FNB,250655,63065648059,savings,1400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,516590083,,N/A
+6196599,Astrid  Titus ,CAPITEC,470010,1613691635,savings,1400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,516285603,,N/A
+6196597,Zelda Kotze,CAPITEC,470010,1281140420,savings,1300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,514877440,,N/A
+6196596,Fina  Radebe ,CAPITEC,470010,1577256016,savings,1300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:58,,515918535,,N/A
+6196591,Lorine Cassim,CAPITEC,470010,1493016693,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:54,,516620142,,N/A
+6196589,Annalien Venter,CAPITEC,470010,1558978915,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:53,,516624768,,N/A
+6196587,Ally asgar Abdul kader,CAPITEC,470010,1395908166,savings,1300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:53,,516346215,,N/A
+6196588,Reginald  rahlapane ,STANDARD,51001,10198513214,current,1300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:53,,516347746,,N/A
+6196585,Lize Laubscher,STANDARD,51001,10200845363,savings,1265.12,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:53,,515781421,,N/A
+6196586,Bernard Van der Merwe,ABSA,632005,9334742729,current,1297,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:53,,515095658,,N/A
+6196580,Hennie Joubert,CAPITEC,470010,1469169132,savings,1200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:48,,514886269,,N/A
+6196579,RENIER VAN OPPERMAN,FNB,250655,62894521585,savings,1200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:48,,514913765,,N/A
+6196577,Nhlakanipho  Hlongwane,CAPITEC,470010,1691017106,savings,1200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:48,,515627641,,N/A
+6196578,Nikita  Maxwell,CAPITEC,470010,2120846711,savings,1200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:48,,516046516,,N/A
+6196576,Maaangetane  Maesela,CAPITEC,470010,1546718093,savings,1200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,516300932,,N/A
+6196575,Vashti Pillay,FNB,250655,63010748169,savings,1200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,516341201,,N/A
+6196573,Carmen Samuels,CAPITEC,470010,1124737632,savings,1180,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,515782513,,N/A
+6196574,Jayden  Bracher ,FNB,250655,63118295377,current,1200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,516601564,,N/A
+6196572,Nomvula Zola,TYME,678910,51068160537,savings,1150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,516429528,,N/A
+6196571,Shafiek Samsodien,FNB,250655,62751083628,current,1100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,516421801,,N/A
+6196570,Magdalena Bosch,CAPITEC,470010,2387142566,savings,1100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,516596343,,N/A
+6196569,Shereyn Chetty,CAPITEC,470010,2186262483,savings,1020,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,515586290,,N/A
+6196568,Anrich Cronje,CAPITEC,470010,2268851962,savings,1000.24,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,516476417,,N/A
+6196567,Christopher Van wyk,FNB,250655,62507764555,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,515000120,,N/A
+6196565,Grant Wiltshire,ABSA,632005,4043751206,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,515044420,,N/A
+6196566,Kristen Cleland,FNB,250655,62798242352,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,515117159,,N/A
+6196563,Savithree Pahlad,TYME,678910,51074835042,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,515098778,,N/A
+6196564,Loshni Changelryan,FNB,250655,62891909552,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:47,,515065413,,N/A
+6196562,Faaiq yunus Sidat,DISCOVERY,679000,14444182592,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515210382,,N/A
+6196561,Getty Tshwaane,CAPITEC,470010,1675429071,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515294837,,N/A
+6196560,Wikus Maarman,CAPITEC,470010,1383923076,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515467732,,N/A
+6196559,Christie Godfrey  Nasen,CAPITEC,470010,1823280151,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515580086,,N/A
+6196558,Millicent  Snyman,DISCOVERY,679000,17328213646,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515694454,,N/A
+6196555,Natasha Laing,CAPITEC,470010,1447261427,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515783516,,N/A
+6196556,Jason De Swardt,FNB,250655,62624321733,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515724216,,N/A
+6196554,Courtney Bentley,CAPITEC,470010,1572477774,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515798027,,N/A
+6196553,Mike du Toit,ABSA,632005,4101826731,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515845173,,N/A
+6196552,Nthabiseng Elizabeth,CAPITEC,470010,1594076306,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515886903,,N/A
+6196551,Kyle  Anthony,DISCOVERY,679000,11650816251,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,515932176,,N/A
+6196549,Leandri Terblanche,FNB,250655,62131218895,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,516048237,,N/A
+6196550,Rozetta Arnoldus,CAPITEC,470010,1202887625,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:46,,516037222,,N/A
+6196548,Nicolas Diphole  Mgiba ,TYME,678910,51027698213,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516087124,,N/A
+6196547,Nadia Pieterse,CAPITEC,470010,1335937305,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516124042,,N/A
+6196546,Ignacia Myeni,CAPITEC,470010,1483835985,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516138026,,N/A
+6196545,Gareth Beier,STANDARD,51001,270417036,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516292554,,N/A
+6196544,Este Olivier,NEDBANK,198765,1151135631,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516315368,,N/A
+6196543,Lindie Spies,CAPITEC,470010,1275668850,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516341970,,N/A
+6196542,Anrie Snyman,CAPITEC,470010,1536341248,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516375037,,N/A
+6196541,Melody Koen,CAPITEC,470010,1897992740,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516621702,,N/A
+6196540,Shahieda Simons,CAPITEC,470010,1640298205,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516619827,,N/A
+6196539,Natalie Jacobs,DISCOVERY,679000,16725886486,savings,451,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516618134,,N/A
+6196538,Lance Dingelstad,CAPITEC,470010,2155807135,current,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516620156,,N/A
+6196537,Jason Meisel,STANDARD,51001,10211792703,current,110,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:45,,516621217,,N/A
+6196524,RESHMA  Singh,DISCOVERY,679000,10310231878,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:28,,516378196,,N/A
+6196523,Angelique  Marais ,STANDARD,51001,58963405,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:28,,516385401,,N/A
+6196522,Gwyneth  Miller,NEDBANK,198765,2206031248,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:28,,516431361,,N/A
+6196519,Sune OConnell ,CAPITEC,470010,1620174217,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,516485357,,N/A
+6196518,S'lungile Hlongwane,CAPITEC,470010,1835224847,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,516617668,,N/A
+6196517,Innocentia  Sikweyiya,ABSA,632005,4079715826,current,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,516617673,,N/A
+6196515,Candice Prinsloo,CAPITEC,470010,1732180030,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,516540417,,N/A
+6196514,Bradley De Kock,CAPITEC,470010,1133343137,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,516549880,,N/A
+6196512,Kebitsamang Leeto,CAPITEC,470010,1557660717,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,516567560,,N/A
+6196509,Reagan van Niekerk,STANDARD,51001,10127438007,current,972.5,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,515668959,,N/A
+6196510,Nols Niemand ,CAPITEC,470010,2082469634,savings,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,516597316,,N/A
+6196511,Susara Johanna  Koekemoer ,FNB,250655,62437634018,current,1000,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:27,,516569226,,N/A
+6196508,Juinade  Reddy,STANDARD,51001,272997854,current,940,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515025933,,N/A
+6196507,Jason Brits,FNB,250655,62432139162,current,902.26,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,516585873,,N/A
+6196506,Christelle Jacobs,CAPITEC,470010,2013134661,savings,900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515723975,,N/A
+6196505,Makoena Nalane,CAPITEC,470010,1435586040,savings,900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515826088,,N/A
+6196503,Minette Viljoen,CAPITEC,470010,1690511964,savings,900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,516546329,,N/A
+6196502,Dina pebetse  Mokawane ,CAPITEC,470010,1547986326,savings,900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,516615196,,N/A
+6196501,Tebatso moriti Kekana,CAPITEC,470010,1635763019,savings,900,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,516615282,,N/A
+6196500,Sharon Birks,CAPITEC,470010,1457707886,savings,850,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515423897,,N/A
+6196499,Alisha Spies,CAPITEC,470010,1842179800,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,514964151,,N/A
+6196498,Andani Mureyi,CAPITEC,470010,1668453809,savings,833,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,516108887,,N/A
+6196497,Nicole Jannecke,CAPITEC,470010,1394917404,savings,804.57,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,516382856,,N/A
+6196496,Deslin Samuels,CAPITEC,470010,1924165072,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515011796,,N/A
+6196495,Muziwandile Leonard ,CAPITEC,470010,1744033925,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515241019,,N/A
+6196494,Landiswa Voortou,CAPITEC,470010,1307525472,current,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515602668,,N/A
+6196491,Balochana Johannes  Manzini ,NEDBANK,198765,1286837030,current,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,516382519,,N/A
+6196492,Vukani  Gwala,CAPITEC,470010,1609492704,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515815798,,N/A
+6196493,Catharina  marion Maree,CAPITEC,470010,1710076648,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:26,,515672374,,N/A
+6196490,Sevha  Lucky ,NEDBANK,198765,1192744241,current,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,516541631,,N/A
+6196489,Elisabeth Van Niekerk,CAPITEC,470010,1429396537,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,516567363,,N/A
+6196488,Anna Van Loggerenberg ,TYME,678910,51061108873,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,516580877,,N/A
+6196487,Leah Tsebe,CAPITEC,470010,1438377663,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,516591764,,N/A
+6196486,Athi Layini ,CAPITEC,470010,1559500466,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,516593875,,N/A
+6196485,Lance Rensburg,CAPITEC,470010,1763044341,savings,800,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,516614668,,N/A
+6196484,Elizabeth  Brugger,CAPITEC,470010,1759245745,savings,730,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,516303563,,N/A
+6196483,Nicole Rooplall,CAPITEC,470010,1714147930,savings,723,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,515397884,,N/A
+6196482,Wynand Louw Burger ,FNB,250655,53360008678,current,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,514899652,,N/A
+6196481,Lyle  Patience,ABSA,632005,9280826184,savings,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,514932521,,N/A
+6196480,Daniel  Wiese,NEDBANK,198765,1186784229,current,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,515166164,,N/A
+6196479,Johannes Binneman,FNB,250655,63130003170,savings,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,515167739,,N/A
+6196478,Mala Mungal,STANDARD,51001,10089608672,savings,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,515633278,,N/A
+6196476,Jayson Wolfaardt,CAPITEC,470010,1310262789,savings,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,516030205,,N/A
+6196477,Fritz Smit,FNB,250655,62634100078,current,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:25,,515817570,,N/A
+6196475,Stephanus van Tonder,STANDARD,51001,202181685,current,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:24,,516341030,,N/A
+6196474,Sean Jonker,NEDBANK,198765,2006686208,savings,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:24,,516456106,,N/A
+6196473,Ntombizikhona  Zikhona ,CAPITEC,470010,1638925354,savings,700,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:24,,516601859,,N/A
+6196472,Karoosha  Pillay,CAPITEC,470010,1964589922,savings,696,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:24,,515070004,,N/A
+6196471,Tyral Chetty,CAPITEC,470010,2038645058,savings,664,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:24,,515096484,,N/A
+6196470,Sagrys Klopper,CAPITEC,470010,1338437796,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:24,,516191995,,N/A
+6196468,Sarah Nkambule,CAPITEC,470010,1443851807,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:23,,515790074,,N/A
+6196467,Tauheed  Naidoo ,CAPITEC,470010,1378023623,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:23,,515795727,,N/A
+6196466,Myles Hancock,DISCOVERY,679000,12489659934,current,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:23,,516041526,,N/A
+6196465,Matt Hopley,ABSA,632005,4109891934,current,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:22,,516615589,,N/A
+6196464,Mlindo Ngwenya,CAPITEC,470010,2001296424,savings,450,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:22,,515638462,,N/A
+6196462,Tikane Tlhakudi,STANDARD,51001,10112652261,savings,450,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:22,,516122709,,N/A
+6196463,Mpho Mokgothu,FNB,250655,63076500842,current,450,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:22,,516559347,,N/A
+6196456,Shaheeda Fisher,FNB,250655,62767181664,savings,101,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:20,,516613816,,N/A
+6196446,Tamlin  Lambert ,FIRSTRAND,201419,62834916093,current,650,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515408214,,N/A
+6196445,Rosemarie Nolte,CAPITEC,470010,1257006175,savings,650,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515614529,,N/A
+6196444,Pabatso Moholeng,CAPITEC,470010,1490412873,savings,650,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515835645,,N/A
+6196443,Kamani Muruvan,CAPITEC,470010,1816495075,savings,624,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,516427907,,N/A
+6196442,muhammad dhai,TYME,678910,51028677809,current,622,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,516561132,,N/A
+6196440,Renaldo Paulse,CAPITEC,470010,1170690082,savings,610,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515454026,,N/A
+6196441,Kalden Gericke,CAPITEC,470010,1691211794,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515152354,,N/A
+6196439,Samukelo Khomo,FNB,250655,62255618434,current,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515080235,,N/A
+6196438,Livhuwani Sinugo,TYME,678910,51049110001,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515168521,,N/A
+6196437,Mmamoraka  Mosemedi,CAPITEC,470010,1420626092,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515284238,,N/A
+6196436,Silondiwe Patience,CAPITEC,470010,1589144331,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515504677,,N/A
+6196435,Lauren Mare,ABSA,632005,9302171928,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515597865,,N/A
+6196433,Charles Ratau,CAPITEC,470010,1287089362,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515648613,,N/A
+6196434,Valerie Ludeke,CAPITEC,470010,1123783444,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:06,,515632460,,N/A
+6196430,Eonay Terblanche ,CAPITEC,470010,1886486164,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:05,,516313372,,N/A
+6196431,Alister Gomes,CAPITEC,470010,1571190196,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:05,,516241598,,N/A
+6196428,Abongile  Ndolo,TYME,678910,51064745108,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:05,,516387955,,N/A
+6196427,Santino  Sardinha Pombo ,CAPITEC,470010,1588971005,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:05,,516558735,,N/A
+6196426,Thapelo Tsotetsi,ABSA,632005,9384170261,savings,580,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:05,,516510369,,N/A
+6196424,Shailin  Archery ,CAPITEC,470010,1458041431,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:05,,516612086,,N/A
+6196423,Tarisha Latchman,CAPITEC,470010,1662066595,savings,250,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 11:05,,516610355,,N/A
+6196406,Nakedi Kabelo,STANDARD,51001,10192777635,savings,550,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:47,,515820663,,N/A
+6196404,Queen Sarah ,CAPITEC,470010,1524382319,savings,530,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:47,,516605297,,N/A
+6196405,Noko Lebelo,CAPITEC,470010,1563016816,savings,530,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:47,,516244233,,N/A
+6196403,Ngoako  Ramakgapola ,DISCOVERY,679000,13569526263,current,503.28,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515666017,,N/A
+6196402,Hannie Venter,CAPITEC,470010,1343382902,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,514886620,,N/A
+6196400,Ashley  Signeur ,CAPITEC,470010,1739930094,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515326065,,N/A
+6196399,Manogeri Rampersad ,FIRSTRAND,201419,63079660784,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515403498,,N/A
+6196398,Nhlakanipho Nene,CAPITEC,470010,1405247647,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515443284,,N/A
+6196397,Gian Badenhorst,CAPITEC,470010,1556532510,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515507163,,N/A
+6196396,Lot Vuma,NEDBANK,198765,1105491048,current,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515564553,,N/A
+6196395,Hugo Van der linde,TYME,678910,51003950891,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515638399,,N/A
+6196394,Nicholas Geswindt,CAPITEC,470010,1719027461,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515769876,,N/A
+6196393,Jody Van Rensburg ,CAPITEC,470010,1325473233,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515775680,,N/A
+6196392,Robbin Lutchminarain,CAPITEC,470010,2242043052,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515890974,,N/A
+6196391,JP van der Linde,STANDARD,51001,10112611433,current,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515907687,,N/A
+6196390,Warren Mc Bride,STANDARD,51001,301552711,current,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,516354130,,N/A
+6196389,Dante Smith,CAPITEC,470010,2121680590,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,516369510,,N/A
+6196388,Raynard  Pieterse ,STANDARD,51001,272648884,current,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,516424566,,N/A
+6196387,Mokgadi  Lucia,CAPITEC,470010,1598032184,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,516456448,,N/A
+6196385,Phillip  Beukes,CAPITEC,470010,1193979968,savings,450,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,515885279,,N/A
+6196386,Chris  Buitendag,FNB,250655,62102936749,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:46,,516543482,,N/A
+6196384,minnoray basson,CAPITEC,470010,1914250840,savings,450,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:45,,516063069,,N/A
+6196383,Busiswa Busi,CAPITEC,470010,1358616297,savings,440,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:45,,515816778,,N/A
+6196382,Johan Smalberger,FNB,250655,62719982440,savings,416,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:45,,516582769,,N/A
+6196381,Cameron Dell,DISCOVERY,679000,11602308942,current,404.3,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:45,,516274724,,N/A
+6196380,Stephen Fouche,ABSA,632005,9267296087,current,400.35,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:43,,516376159,,N/A
+6196379,Sindisiwe  Khuzwayo ,CAPITEC,470010,1584350499,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:43,,515055373,,N/A
+6196378,Lerato Motsepe,CAPITEC,470010,1306545542,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:43,,515124887,,N/A
+6196377,Marian Badenhorst,CAPITEC,470010,1283382278,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:43,,516606594,,N/A
+6196375,Joseph Peega,CAPITEC,470010,1517430141,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:42,,516603491,,N/A
+6196374,Nelisma Marais,CAPITEC,470010,1572341643,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:42,,516604370,,N/A
+6196363,Tshepiso Shilote,CAPITEC,470010,1702764425,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:21,,515167416,,N/A
+6196362,Steven Konigkramer,STANDARD,51001,63243016,current,199,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:21,,516602546,,N/A
+6196361,Coenraad  Breet ,DISCOVERY,679000,14926418619,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:21,,515218256,,N/A
+6196360,Nizaam Moses,CAPITEC,470010,2154090083,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:21,,515271370,,N/A
+6196359,Brenda Swanepoel,CAPITEC,470010,2243142720,savings,360,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:21,,516403615,,N/A
+6196358,Shaun Peacock,DISCOVERY,679000,18037113164,current,351,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:21,,516023052,,N/A
+6196357,nduduzo shangase,CAPITEC,470010,2196504617,current,350,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:21,,515033723,,N/A
+6196356,Rajasvari Govender,CAPITEC,470010,1353401500,savings,350,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515302806,,N/A
+6196354,Heloise Vollgraaff ,CAPITEC,470010,1345216015,savings,350,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515547722,,N/A
+6196353,Joel Muronga,CAPITEC,470010,1959404146,savings,350,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515765496,,N/A
+6196351,Ramatsobane  Manamela ,CAPITEC,470010,1513020631,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515424513,,N/A
+6196349,Derick Van Rooyen,CAPITEC,470010,2130992680,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515615103,,N/A
+6196350,Simoney Adams,CAPITEC,470010,1409129630,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515465645,,N/A
+6196348,Preston Bossr,CAPITEC,470010,1420365698,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515726664,,N/A
+6196347,Perseverence  Shongwe,CAPITEC,470010,1431233909,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515743885,,N/A
+6196345,Unishca  Jacobs ,TYME,678910,51076867959,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,515764929,,N/A
+6196346,Goitseona Malebo,CAPITEC,470010,1381337056,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:20,,516017826,,N/A
+6196343,Buhle Ndlovu ,TYME,678910,51048916266,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:19,,516024000,,N/A
+6196342,Dumisani  Simelane ,FNB,250655,62151242832,current,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:19,,516074197,,N/A
+6196341,Lorraine Jacobs,CAPITEC,470010,1345083155,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:19,,516157894,,N/A
+6196340,Marco Viljoen,DISCOVERY,679000,14521304340,current,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:19,,516246576,,N/A
+6196339,Masingita  Siduna ,CAPITEC,470010,1464070308,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:19,,516490887,,N/A
+6196338,Mashudu  Moribula ,CAPITEC,470010,1645873178,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:19,,516524885,,N/A
+6196337,Belinda De Jager,CAPITEC,470010,1415553996,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:19,,516557757,,N/A
+6196334,Wayden Campher,FNB,250655,62801753725,savings,350,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:13,,516600540,,N/A
+6196333,Tshegofatso Mogotsi,CAPITEC,470010,1744151251,savings,310,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:13,,516582782,,N/A
+6196332,Corne van Tonder,NEDBANK,198765,1141249502,current,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:13,,514877131,,N/A
+6196331,Tshepo  Mogale ,CAPITEC,470010,1552035229,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:13,,514908908,,N/A
+6196330,Janine Saayman,ABSA,632005,9391912258,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:13,,514912521,,N/A
+6196326,Lizel Lombaard,CAPITEC,470010,1597960185,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:10,,514946568,,N/A
+6196325,Ann Bekker,CAPITEC,470010,1425714577,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:10,,515079334,,N/A
+6196324,Alice Morapedi,CAPITEC,470010,1453253945,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:10,,515136736,,N/A
+6196323,Michelle  George,CAPITEC,470010,1543023493,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:10,,515159870,,N/A
+6196322,Lizzah Ngcobo,STANDARD,51001,10218601989,current,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:10,,515236075,,N/A
+6196321,Jolene Leibrandt,CAPITEC,470010,1450693448,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:10,,515613493,,N/A
+6196315,Londeka Linnet,CAPITEC,470010,1484899340,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,515729083,,N/A
+6196314,Julia Makechane,TYME,678910,51052068266,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,515766345,,N/A
+6196313,Marielou  Pretorius ,CAPITEC,470010,1144328681,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,515789326,,N/A
+6196312,Eunezil  Brandt,TYME,678910,51072023261,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,515894989,,N/A
+6196310,Francois Ras,CAPITEC,470010,1439765187,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,516156890,,N/A
+6196309,Belinda Werner,STANDARD,51001,10068615513,current,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,516190682,,N/A
+6196308,Lebogang  Prudence ,CAPITEC,470010,1699194775,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,516242731,,N/A
+6196306,Ian Gobregts ,DISCOVERY,679000,17042699857,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,516307038,,N/A
+6196307,Christiaan  Tonkin,STANDARD,51001,435260103,current,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:05,,516244447,,N/A
+6196301,Cashiefa Van der schyff,ABSA,632005,9152888517,savings,280,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:04,,516246166,,N/A
+6196302,Khalirendwe  Nemutamvuni ,CAPITEC,470010,1617288797,savings,260,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:04,,514885278,,N/A
+6196300,Kevin Littleford ,FNB,250655,62923314562,current,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,516322155,,N/A
+6196299,Masello Mafatle,CAPITEC,470010,1383220830,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,516359419,,N/A
+6196298,Mark Nunn,CAPITEC,470010,1651717301,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,516562200,,N/A
+6196297,Desigan  Govender ,CAPITEC,470010,1196298813,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,516576417,,N/A
+6196296,Chantel Gounder,CAPITEC,470010,1976306688,savings,260,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,516358635,,N/A
+6196295,Yemurai Matandamanyoro,FNB,250655,63109829292,current,250,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,515517236,,N/A
+6196294,Seipati  Morota ,AFRIBANK,430000,20096001804,savings,250,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,515763910,,N/A
+6196292,Shirley  Shisana ,TYME,678910,51032236617,savings,250,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,516435882,,N/A
+6196293,Robin-leigh Andreas,CAPITEC,470010,1593468391,savings,241.04,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:03,,516451259,,N/A
+6196291,Reagan Van Der Heever,TYME,678910,51075383807,savings,201,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:02,,516567433,,N/A
+6196290,JAMIE-LEE  SLINGERS ,CAPITEC,470010,2046155161,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:02,,514940204,,N/A
+6196289,john appolus,CAPITEC,470010,1425933147,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:02,,514955628,,N/A
+6196288,Grace-lee Grace,CAPITEC,470010,1799085293,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:01,,514984785,,N/A
+6196287,Zishwili  Ndzinisa ,TYME,678910,51098770054,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 10:00,,516314842,,N/A
+6196283,Molefi  Khetha ,TYME,678910,51081525336,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:58,,516464168,,N/A
+6196282,Simone Pillay,CAPITEC,470010,1417429273,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:57,,516522281,,N/A
+6196281,Francois  Williams ,CAPITEC,470010,1654726034,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:57,,516597645,,N/A
+6196277,Charel Jooste ,TYME,678910,51043982921,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:56,,515412157,,N/A
+6196276,Khumbudzo  Tshikororo ,CAPITEC,470010,1492948479,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:56,,516098115,,N/A
+6196273,Divan du Preez,ABSA,632005,9194337201,current,4913,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:55,,516315839,,N/A
+6196274,Matthew van der Walt,DISCOVERY,679000,13809470070,current,4728,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:55,,515787496,,N/A
+6196272,Nana Buthelezi,CAPITEC,470010,1615382397,savings,3570,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:54,,515293572,,N/A
+6196271,Seth Louw,FNB,250655,63033878274,current,3200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:54,,516501159,,N/A
+6196270,Matthew  Frattaroli ,FNB,250655,62624669357,current,1350,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:54,,514917015,,N/A
+6196269,Malibuseng thebe,CAPITEC,470010,1361326016,savings,600,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:54,,514955081,,N/A
+6196268,Thembeka  Ngwenya,STANDARD,51001,10147703687,savings,500,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:54,,516588964,,N/A
+6196267,Theresa Kahut,ABSA,632005,9293429868,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:54,,516578396,,N/A
+6196266,Ntombikhona  Dlamini ,CAPITEC,470010,1674234676,savings,400,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:54,,516583273,,N/A
+6196265,Katherine Pillay,CAPITEC,470010,1969357701,savings,300,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:54,,515744079,,N/A
+6196264,Simoné Egen,DISCOVERY,679000,12190839279,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:53,,515175722,,N/A
+6196263,Avoid Ndou,CAPITEC,470010,1744111446,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:53,,515291355,,N/A
+6196262,Dubuzile Juliet Ndaba,CAPITEC,470010,1844880581,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:53,,515406112,,N/A
+6196261,Nikiwe  Yaphi ,CAPITEC,470010,1542864761,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:53,,515496015,,N/A
+6196260,JACK-QUIN BOTHA,CAPITEC,470010,1562261000,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:53,,515726117,,N/A
+6196257,Rifuwo Mashele ,CAPITEC,470010,1502926170,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:53,,515758440,,N/A
+6196258,Rabelani Innocent Mulefu,CAPITEC,470010,1436683287,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:53,,515834063,,N/A
+6196259,Mvuyisi Zoleka,FNB,250655,62545165442,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:53,,515827474,,N/A
+6196256,Damian Van Breda,STANDARD,51001,10236639747,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:52,,516085718,,N/A
+6196255,Cynthia  Nomadlozi ,CAPITEC,470010,2272615356,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:52,,516320723,,N/A
+6196254,Mishrak Ramchuran,STANDARD,51001,10165990838,current,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:52,,516325975,,N/A
+6196253,Maria Magdalena  van Niekerk,FNB,250655,63152161310,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:52,,516335572,,N/A
+6196252,wian stols,CAPITEC,470010,1749957726,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:52,,516407491,,N/A
+6196250,Tabassum  Sheik ameer,CAPITEC,470010,2090407596,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:52,,516556321,,N/A
+6196249,Francois Van niekerk ,CAPITEC,470010,1556296760,savings,200,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,516582941,,N/A
+6196248,Faith Mtshali,CAPITEC,470010,1206807685,savings,190,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,516224715,,N/A
+6196247,Ruth Kubyana ,CAPITEC,470010,1712502784,savings,175,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,516220643,,N/A
+6196245,Gladys Tiela,CAPITEC,470010,1570587432,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,515334998,,N/A
+6196244,Geniele  Jansen ,TYME,678910,51008654004,savings,170,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,515602349,,N/A
+6196243,Laura  Carrick ,STANDARD,51001,4604709,current,162,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,516582903,,N/A
+6196242,Carmen Van der Walt,FNB,250655,62471206956,current,160,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,516277349,,N/A
+6196241,Shirley-Ann  Lottering,CAPITEC,470010,1138837464,savings,151,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,515822858,,N/A
+6196240,Herbert  Kgapola,TYME,678910,51000244787,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,514989783,,N/A
+6196238,Abigail  Mashamaite ,TYME,678910,51026463682,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,515376883,,N/A
+6196239,Gershwin Mitchell,CAPITEC,470010,1506896918,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:51,,515022392,,N/A
+6196237,Ni-shaat Loxton,CAPITEC,470010,1490703371,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:50,,515666605,,N/A
+6196236,Kiletja knox Matjeke,CAPITEC,470010,1357669567,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:50,,516012739,,N/A
+6196235,Hayley Roodt,NEDBANK,198765,1067447431,current,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:50,,516215455,,N/A
+6196233,mandla johannes,AFRIBANK,430000,20041015660,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:50,,516316713,,N/A
+6196234,Daleen van Greunen,TYME,678910,51003726810,current,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:50,,516333122,,N/A
+6196232,Samukelisiwe Mdima,CAPITEC,470010,1339864051,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,516542740,,N/A
+6196231,Tshireletso Moto,CAPITEC,470010,1551239017,savings,150,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,516593245,,N/A
+6196230,Tyrone Peter  Bekker ,DISCOVERY,679000,19946384677,savings,141,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,516568628,,N/A
+6196229,Aniki Mashego,CAPITEC,470010,1467420385,savings,120,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,514993240,,N/A
+6196228,Sthembiso Mdletshe,CAPITEC,470010,1329552537,savings,120,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,515504086,,N/A
+6196227,Kgotso  Raswiswi ,CAPITEC,470010,1587386591,savings,120,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,515745209,,N/A
+6196226,Philadelphia Kohla,STANDARD,51001,10192491219,current,120,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,516258024,,N/A
+6196225,Irma Malan,CAPITEC,470010,1435572864,savings,110,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,515027319,,N/A
+6196224,Riyaad  Isaacs ,CAPITEC,470010,1666200644,savings,110,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,515139696,,N/A
+6196223,Tarryn George,STANDARD,51001,71618465,current,105,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,516440652,,N/A
+6196222,Tisetso Modiba,TYME,678910,51002471558,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,515586025,,N/A
+6196221,Mpho Taole,CAPITEC,470010,1321958992,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:49,,515823905,,N/A
+6196220,Eunice  Lechalaba ,CAPITEC,470010,1657372780,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:48,,515934315,,N/A
+6196219,Lee Leibrandt ,CAPITEC,470010,1414716425,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:48,,515270362,,N/A
+6196218,Vongani Nkuna,CAPITEC,470010,1487617702,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:48,,515399118,,N/A
+6196216,Beauty  Maimela ,CAPITEC,470010,1898647427,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:48,,516252502,,N/A
+6196215,Catherine  Mazaleni ,STANDARD,51001,70098611,current,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:48,,516484702,,N/A
+6196214,Fhulufhelo Nndwambi,CAPITEC,470010,1712882935,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:48,,516513701,,N/A
+6196212,Irene Seaba ,CAPITEC,470010,1544066943,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:48,,516594864,,N/A
+6196213,Seipati Morake,CAPITEC,470010,1374058872,savings,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:48,,516530521,,N/A
+6196211,Pat Witten,FNB,250655,62269432143,current,100,Payout,Play.co.za,13937,CallPay,Processing,04-08-25 9:47,,516595791,,N/A
+6195364,Fred Bylie,CAPITEC,470010,2285257852,savings,75000,Payout,Play.co.za,13937,CallPay,Processing,02-08-25 13:21,,515505283,,N/A
+,,,,,,1749522.32,,,,,,,,,,

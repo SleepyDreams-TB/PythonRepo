@@ -90,7 +90,7 @@ def validate_account(row, file_handle, line_number):
 def main():
     # Construct the file path dynamically
     script_dir = os.path.dirname(os.path.realpath(__file__))
-    file_path = os.path.join(script_dir, "Easywire payout export.csv")
+    file_path = os.path.join(script_dir, "validateLula.csv")
     output_file_path = os.path.join(script_dir, "PayoutValidate.txt")
 
     # Read CSV file and write to both file and console

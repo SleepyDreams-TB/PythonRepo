@@ -1,0 +1,145 @@
+id,customer_name,bank,branch,account,account_type,amount,type,organisation,organisation_id,owning_organisation,payout_status,created,batch_date,reference,external_reference,payout_type
+6197105,"Niane Van Den Heever",FNB,250655,63075547043,current,120.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:21",,253099190000300,,N/A
+6197103,"Kgalalelo Patricia Bodumele",Capitec,470010,1532454374,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:20",,253078720000100,,N/A
+6197104,"Niane Van Den Heever",FNB,250655,63075547043,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:20",,253091330000100,,N/A
+6197099,"Kgalalelo Patricia Bodumele",Capitec,470010,1532454374,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:19",,253078590000200,,N/A
+6197100,"Estella Cookson",Standard,051001,10241779292,current,50.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:19",,253092020000200,,N/A
+6197101,"Jessica Masilamoney",FNB,250655,62613276824,current,250.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:19",,253088910000500,,N/A
+6197102,"Niane Van Den Heever",FNB,250655,63075547043,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:19",,253087060000200,,N/A
+6197094,"Kgalalelo Patricia Bodumele",Capitec,470010,1532454374,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:18",,253078380000100,,N/A
+6197095,"Estella Cookson",Standard,051001,10241779292,current,50.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:18",,253089800000100,,N/A
+6197096,"Leasyl Toughey",Capitec,470010,1196770202,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:18",,253088060000200,,N/A
+6197097,"Loretha Masuku",Capitec,470010,1502457901,current,400.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:18",,253096800000100,,N/A
+6197098,"Tongai Mlambo",Capitec,470010,1649120875,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:18",,253077520000100,,N/A
+6197089,"Estella Cookson",Standard,051001,10241779292,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:17",,253078560000500,,N/A
+6197090,"Ashleigh Hartzenberg",FNB,250655,63109081602,current,1200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:17",,253101930000200,,N/A
+6197091,"Loretha Masuku",Capitec,470010,1502457901,current,500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:17",,253096500000100,,N/A
+6197092,"Motlatso Shadung",Capitec,470010,1287389013,current,120.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:17",,253075300000200,,N/A
+6197093,"Karin Van Jaarsveld",Capitec,470010,1394613685,current,1700.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:17",,253082540000100,,N/A
+6197084,"Jakoben Van Rooy",FNB,250655,62862215152,current,400.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:16",,253075590000200,,N/A
+6197085,"Ashleigh Hartzenberg",FNB,250655,63109081602,current,1000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:16",,253099390000300,,N/A
+6197086,"Jenay Mert",Standard,051001,626132940,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:16",,253089000000100,,N/A
+6197087,"Christopher Raats",Capitec,470010,1415950375,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:16",,253086740000700,,N/A
+6197088,"Hester Hees",Capitec,470010,1244687934,current,300000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:16",,253097990000100,,N/A
+6197079,"Benrico King",Capitec,470010,1244646901,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:15",,253095950000200,,N/A
+6197080,"Tyran Muller",Capitec,470010,1903399147,current,880.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:15",,253096660000200,,N/A
+6197081,"Fanele Massimbe",Capitec,470010,1574635490,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:15",,253100160000600,,N/A
+6197082,"Tracy January",Capitec,470010,1376043686,current,50.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:15",,253080950000400,,N/A
+6197083,"Monique Visser",Capitec,470010,1988298065,current,1000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:15",,253095930000100,,N/A
+6197074,"Tyran Muller",Capitec,470010,1903399147,current,600.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:14",,253081410000100,,N/A
+6197075,"Benrico King",Capitec,470010,1244646901,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:14",,253080680000100,,N/A
+6197076,"Fanele Massimbe",Capitec,470010,1574635490,current,700.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:14",,253099560000300,,N/A
+6197077,"Gaironesa Adriaanse",Capitec,470010,1342489894,current,320.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:14",,253091900000400,,N/A
+6197078,"Fhulufhedzani Phalanndwa",Capitec,470010,2393700079,current,700.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:14",,253081710000100,,N/A
+6197069,"Wydell Abrahams",Capitec,470010,1450558877,current,1600.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:13",,253080080000200,,N/A
+6197070,"Tawfeeq Matthee",Capitec,470010,1487320025,current,400.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:13",,253076210000100,,N/A
+6197071,"Danie Van zyl",Capitec,470010,1965333700,current,450.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:13",,253101330000100,,N/A
+6197072,"Fanele Massimbe",Capitec,470010,1574635490,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:13",,253095000000300,,N/A
+6197073,"Endrea Richards",FNB,250655,62817310866,current,2000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:13",,253095050000100,,N/A
+6197064,"Lindsay Godfrey",Discovery,679000,13141838182,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:12",,253087470000200,,N/A
+6197065,"Andiswa Nkwanyana",Capitec,470010,1597624436,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:12",,253081940000100,,N/A
+6197066,"Lugino Willemse",Discovery,679000,14989468273,current,250.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:12",,253093900000600,,N/A
+6197067,"Thabiso Nkhooa",FNB,250655,62750145510,current,600.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:12",,253086300000100,,N/A
+6197068,"Emmerancia Turner",Capitec,470010,1899534499,current,50.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:12",,253101770000200,,N/A
+6197059,"Lindsay Godfrey",Discovery,679000,13141838182,current,240.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:11",,253086650000100,,N/A
+6197060,"Seipati Mashilo",Capitec,470010,1324657578,current,57.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:11",,253101010000100,,N/A
+6197061,"Shane Snyman",Capitec,470010,1614049619,current,1000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:11",,253093380000400,,N/A
+6197062,"Ignatius Gamba",Tyme,678910,51060058780,current,7000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:11",,253097350000100,,N/A
+6197063,"Emmerancia Turner",Capitec,470010,1899534499,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:11",,253101370000200,,N/A
+6197054,"Sharlene Rondganger",Capitec,470010,1439915464,current,1000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:10",,253079460000200,,N/A
+6197055,"Njabulo Sithole",Capitec,470010,1452198991,current,3000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:10",,253101660000200,,N/A
+6197056,"Seipati Mashilo",Capitec,470010,1324657578,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:10",,253100090000800,,N/A
+6197057,"Phumla Mkhwanazi",Capitec,470010,1720708558,current,4000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:10",,253100310000200,,N/A
+6197058,"Kgothatso Maphanga",Capitec,470010,2080872318,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:10",,253079710000200,,N/A
+6197049,"Ashwen Van schalkwyk",Capitec,470010,1521875276,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:09",,253079520000300,,N/A
+6197050,"Timothy Siebrits",ABSA,632005,9364783098,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:09",,253078040000100,,N/A
+6197051,"Jonas mashilo Mokwena",Capitec,470010,1962848602,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:09",,253101880000100,,N/A
+6197052,"Muneiwa Sewadawada",Standard,051001,10109093702,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:09",,253079570000400,,N/A
+6197053,"Macneil Goliath",Tyme,678910,51049690354,current,500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:09",,253099990000100,,N/A
+6197045,"Maite Serumula",FNB,250655,62435970547,current,1000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:08",,253093570000300,,N/A
+6197046,"Gertruida Vermeulen",Capitec,470010,2305371345,current,500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:08",,253086250000100,,N/A
+6197047,"Alain Bradfield",Standard,051001,10199903997,current,650.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:08",,253092790000100,,N/A
+6197048,"Macneil Goliath",Tyme,678910,51049690354,current,5000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:08",,253099810000100,,N/A
+6197040,"Monique Coetzee",Capitec,470010,1496760768,current,4000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:07",,253094850000100,,N/A
+6197041,"Maite Serumula",FNB,250655,62435970547,current,1500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:07",,253092790000200,,N/A
+6197042,"dean Philander",Capitec,470010,1549799825,current,5000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:07",,253089600000400,,N/A
+6197043,"Boitumelo Donald Kgaje",Capitec,470010,1735091187,current,50.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:07",,253101690000100,,N/A
+6197044,"Leon Hattingh",FNB,250655,62751901937,current,600.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:07",,253093890000800,,N/A
+6197035,"molemo mosito",Capitec,470010,1645943141,current,50.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:06",,253082180000100,,N/A
+6197036,"Maite Serumula",FNB,250655,62435970547,current,3000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:06",,253085160000200,,N/A
+6197037,"Charles Mbonane",Capitec,470010,1632737017,current,90.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:06",,253092920000100,,N/A
+6197038,"Theresa Boyd",FNB,250655,52130047642,current,4079.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:06",,253086850000200,,N/A
+6197039,"Lesiba George Magongoa",Capitec,470010,1474156256,current,400.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:06",,253092450000200,,N/A
+6197030,"Maite Serumula",FNB,250655,62435970547,current,4000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:05",,253084820000100,,N/A
+6197031,"Mehedi Hasan",ABSA,632005,9379182255,current,8300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:05",,253101240000100,,N/A
+6197032,"Karmini John",FNB,250655,62296724076,current,1500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:05",,253093370000100,,N/A
+6197033,"Anrich Kleinhans",Capitec,470010,1766509388,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:05",,253100060000100,,N/A
+6197034,"Charles Hanekom",Capitec,470010,1567836990,current,700.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:05",,253090400000400,,N/A
+6197025,"Rachael Dart",FNB,250655,63116845801,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:04",,253076630000100,,N/A
+6197026,"Itumeleng Mmusi",Capitec,470010,1674804324,current,190.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:04",,253088180000100,,N/A
+6197027,"Karmini John",FNB,250655,62296724076,current,2000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:04",,253092840000600,,N/A
+6197028,"Shoe- Eib Japhta",Capitec,470010,1401334790,current,326.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:04",,253101810000100,,N/A
+6197029,"Rizano Jordaan",Capitec,470010,1492948045,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:04",,253091240000200,,N/A
+6197020,"Jaco Charlton Blaauw",Capitec,470010,1441018598,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:03",,253075570000100,,N/A
+6197021,"Phillip Van Der Spuy",Nedbank,198765,1050537459,current,500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:03",,253098910000200,,N/A
+6197022,"Siviwe Bernard Njikelana",Tyme,678910,51022833158,current,350.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:03",,253089880000100,,N/A
+6197023,"Akonisaho Nenzhelele",Capitec,470010,1688304590,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:03",,253082800000100,,N/A
+6197024,"Delin Ogle",Capitec,470010,1379941448,current,500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:03",,253100430000100,,N/A
+6197015,"Kgomotso Molekoa",Tyme,678910,51021583026,current,7200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:02",,253095710000100,,N/A
+6197016,"Craig Simpson",FNB,250655,62475316868,current,1000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:02",,253074710000400,,N/A
+6197017,"Nokwazi Shabalala",Capitec,470010,1549130712,current,1700.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:02",,253086830000100,,N/A
+6197018,"Bulelani Nzimeni",Capitec,470010,1640187403,current,2000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:02",,253085720000100,,N/A
+6197019,"Delin Ogle",Capitec,470010,1379941448,current,500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:02",,253100350000300,,N/A
+6197010,"Herman Wessels",ABSA,632005,9324933655,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:01",,253078410000100,,N/A
+6197011,"Jillain De Lange",ABSA,632005,9143636810,current,700.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:01",,253079250000100,,N/A
+6197012,"Dylan Fester",Capitec,470010,1942349910,current,500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:01",,253098880000100,,N/A
+6197013,"Monique Solomon",Capitec,470010,1730711500,current,1410.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:01",,253098980000200,,N/A
+6197014,"CAMERON meyer",Capitec,470010,1508514427,current,130.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:49:01",,253101460000100,,N/A
+6197009,"Henleyzay Alexander",Capitec,470010,1852409434,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:11",,253061600000100,,N/A
+6197007,"Henleyzay Alexander",Capitec,470010,1852409434,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:10",,253061150000100,,N/A
+6197008,"Zandro Lintnaar",Standard,051001,10153799917,current,40000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:10",,253073260000100,,N/A
+6197002,"Vinolia Senwedi",Capitec,470010,1552654883,current,145.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:09",,253074070000100,,N/A
+6197003,"Andre Chetty",FNB,250655,62770695967,current,10000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:09",,253074580000100,,N/A
+6197004,"Abongile Ntshikilana",Capitec,470010,1205282058,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:09",,253060290000100,,N/A
+6197005,"Letta Kekana",Capitec,470010,1705458732,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:09",,253064990000600,,N/A
+6197006,"Gabsile Mkhwanazi",Capitec,470010,1671255559,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:09",,253065310000200,,N/A
+6196997,"David Monaiwa",Capitec,470010,1685436070,current,50.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:08",,253064680000200,,N/A
+6196998,"Tracey Leigh Fredericks",Capitec,470010,2285563651,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:08",,253064750000500,,N/A
+6196999,"Itumeleng Mosenye",Capitec,470010,1220676983,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:08",,253072570000200,,N/A
+6197000,"Basil Tyler",Capitec,470010,1732928183,current,270.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:08",,253074280000300,,N/A
+6197001,"Benjamin Tenzer",Discovery,679000,17898428446,current,2000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:08",,253061380000500,,N/A
+6196992,"Jabulani Sibiya",Capitec,470010,1953640360,current,5000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:07",,253067090000100,,N/A
+6196993,"Ashleigh Hartzenberg",FNB,250655,63109081602,current,5000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:07",,253067520000100,,N/A
+6196994,"Byron Rasquero",Capitec,470010,1369312855,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:07",,253067060000200,,N/A
+6196995,"Talisa Johnson",FNB,250655,62292823228,current,3000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:07",,253066170000100,,N/A
+6196996,"keaobaka Mpogo",Capitec,470010,1968023249,current,350.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:07",,253062960000100,,N/A
+6196987,"Hilton Hanekom",Capitec,470010,1777657251,current,600.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:06",,253065600000100,,N/A
+6196988,"Wanda Jansen",Capitec,470010,1454880544,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:06",,253060700000100,,N/A
+6196989,"Kwaneliswa Nene",Capitec,470010,1885928465,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:06",,253061160000200,,N/A
+6196990,"Kenneth Du Plessis",Capitec,470010,1501424198,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:06",,253071630000200,,N/A
+6196991,"Aron Nyati",Capitec,470010,1678353947,current,300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:06",,253071910000100,,N/A
+6196982,"Martin Zeelie",Capitec,470010,1837636700,current,301.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:05",,253071010000200,,N/A
+6196983,"Daniel Bezuidenhout",FNB,250655,62767436655,current,1000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:05",,253071930000400,,N/A
+6196984,"Mpho Finga",Capitec,470010,1412700262,current,900.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:05",,253065270000200,,N/A
+6196985,"Maite Serumula",FNB,250655,62435970547,current,9000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:05",,253072510000100,,N/A
+6196986,"Francois Henning",Nedbank,198765,1051539684,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:05",,253074030000100,,N/A
+6196977,"Siviwe Bernard Njikelana",Tyme,678910,51022833158,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:04",,253061490000400,,N/A
+6196978,"Nolan Lewis",Capitec,470010,1363209939,current,120.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:04",,253059310000200,,N/A
+6196979,"Mervin Kammies",Capitec,470010,1239242687,current,2000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:04",,253068070000200,,N/A
+6196980,"Jaco Charlton Blaauw",Capitec,470010,1441018598,current,400.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:04",,253072570000100,,N/A
+6196981,"Annah Magwidi",Access,410506,51159301402,current,110.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:04",,253063710000300,,N/A
+6196972,"Luke Carr",Discovery,679000,17349552628,current,1000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:03",,253069000000100,,N/A
+6196973,"Modjadji Raphela",Capitec,470010,1517055944,current,120.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:03",,253064130000600,,N/A
+6196974,"Craig Simpson",FNB,250655,62475316868,current,1092.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:03",,253070860000100,,N/A
+6196975,"Soretta Adams",Capitec,470010,1531927104,current,500.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:03",,253064110000300,,N/A
+6196976,"Jaco Charlton Blaauw",Capitec,470010,1441018598,current,200.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:03",,253072340000100,,N/A
+6196967,"Luke Carr",Discovery,679000,17349552628,current,2000.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:02",,253064650000700,,N/A
+6196968,"Modjadji Raphela",Capitec,470010,1517055944,current,330.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:02",,253063920000900,,N/A
+6196969,"Craig Simpson",FNB,250655,62475316868,current,2300.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:02",,253070780000200,,N/A
+6196970,"Kgothatso Maphanga",Capitec,470010,2080872318,current,150.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:02",,253065300000500,,N/A
+6196971,"Eileen Mandalain",ABSA,632005,9391097759,current,240.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:02",,253061150000200,,N/A
+6196962,"Hellen Mosupye",Tyme,678910,51032524742,current,4700.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:01",,253059910000200,,N/A
+6196963,"Mamello Mahata",Capitec,470010,1841530008,current,100.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:01",,253072070000100,,N/A
+6196964,"Seipati Mashilo",Capitec,470010,1324657578,current,305.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:01",,253065910000200,,N/A
+6196965,"Jillain De Lange",ABSA,632005,9143636810,current,800.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:01",,253068050000100,,N/A
+6196966,"Pretty Nkosi",Capitec,470010,1369782487,current,1350.00,Payout,LulaBet,10484,CallPay,Processing,"2025-08-04 12:48:01",,253071610000100,,N/A
