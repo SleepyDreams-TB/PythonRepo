@@ -10,13 +10,13 @@ from jose import JWTError, jwt # jose for creating and verifying JWT tokens
 app = FastAPI()
 
 # --- Auth Setup ---
-SECRET_KEY = "super_secret_key"   # generate a secure key in real apps
+SECRET_KEY = "super_secret_key"   
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="login")
 
 # --- Test Database ---
-fake_users_db = {
+test_users_db = {
     "Tiaan": {"username": "Tiaan", "password": "test123"}  # plain text for demo
 }
 
@@ -27,7 +27,7 @@ def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):
     to_encode.update({"exp": expire})
     return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
 
-# --- Dependency to get current user ---
+# --- Get current user ---
 def get_current_user(token: str = Depends(oauth2_scheme)):
     try:
         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
@@ -47,7 +47,7 @@ def get_current_user(token: str = Depends(oauth2_scheme)):
 # --- Login Endpoint ---
 @app.post("/token")
 def login(form_data: OAuth2PasswordRequestForm = Depends()):
-    user = fake_users_db.get(form_data.username)
+    user = test_users_db.get(form_data.username)
     if not user or user["password"] != form_data.password:
         raise HTTPException(status_code=400, detail="Incorrect username or password")
     access_token = create_access_token(
